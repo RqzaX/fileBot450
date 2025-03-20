@@ -1,0 +1,138 @@
+{
+  "services": [
+    {
+      "name": "Tv360",
+      "host": "https://tv360.vn",
+      "method": "POST",
+      "headers": {
+        "authority": "tv360.vn",
+        "accept": "application/json, text/plain, */*",
+        "accept-language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "content-type": "application/json",
+        "origin": "https://tv360.vn",
+        "referer": "https://tv360.vn/login?r=https%3A%2F%2Ftv360.vn%2F",
+        "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "body": {
+        "key": "value"
+      }
+    },
+    {
+      "name": "winmart",
+      "host": "https://winmart.vn",
+      "method": "POST",
+      "headers": {
+        "authority": "api-crownx.winmart.vn",
+        "accept": "application/json",
+        "accept-language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "content-type": "application/json",
+        "origin": "https://winmart.vn",
+        "referer": "https://winmart.vn/",
+        "sec-ch-ua": "\"Not_A Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "Windows",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "body": {
+        "key": "value"
+      }
+    },
+    {
+      "name": "GHN",
+      "host": "https://ghn.vn",
+      "method": "POST",
+      "headers": {
+        "authority": "online-gateway.ghn.vn",
+        "accept": "application/json, text/plain, */*",
+        "accept-language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "content-type": "application/json",
+        "origin": "https://sso.ghn.vn",
+        "referer": "https://sso.ghn.vn/",
+        "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "body": {
+        "key": "value"
+      }
+    },
+    {
+      "name": "30Shine",
+      "host": "https://30shine.com",
+      "method": "POST",
+      "headers": {
+        "authority": "ls6trhs5kh.execute-api.ap-southeast-1.amazonaws.com",
+        "accept": "application/json",
+        "accept-language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "authorization": "",
+        "content-type": "application/json",
+        "origin": "https://30shine.com",
+        "referer": "https://30shine.com/",
+        "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+      },
+      "body": {
+        "key": "value"
+      }
+    },
+    {
+      "name": "Medicare",
+      "host": "https://medicare.vn",
+      "method": "POST",
+      "headers": {
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "Connection": "keep-alive",
+        "Content-Type": "application/json",
+        "Origin": "https://medicare.vn",
+        "Referer": "https://medicare.vn/login",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "same-origin",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "X-XSRF-TOKEN": "eyJpdiI6IkZBTVZlcS9XSXdUb1lscll6d01BMlE9PSIsInZhbHVlIjoiRkRENVR6QUpKNUI5RWZoSTVqc0pmeHBvZTFFdGMxU1ZTQWNYWk5GOWRPbTNJNDFmeUYvbGVXZmcxVmo2QWJMcmdpL0J3dWx3ZzRsSklmT0Y2YVJldHZwSGJDazhZd0QrWVcwM3BGbFpzbndTMjI1bk1pV0xwK1AxTE5LQ0lnU3IiLCJtYWMiOiJjMzBkYzlkNDFiNjY1OTVhODVlN2E0YWVlZTQ4ZGMxYjMwYjQ5ZGRhNTU3ODYyYWUzZmU0MmZiYjFmMGUzNjk3IiwidGFnIjoiIn0=",
+        "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "body": {
+        "key": "value"
+      }
+    },
+    {
+      "name": "Vato",
+      "host": "https://futabus.vn",
+      "method": "POST",
+      "headers": {
+        "Accept": "application/json",
+        "Accept-Language": "vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5,ja;q=0.4",
+        "Content-Type": "application/json",
+        "Origin": "https://futabus.vn",
+        "Referer": "https://futabus.vn/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        "X-App-ID": "client",
+        "sec-ch-ua": "\"Not_A Brand\";v=\"99\", \"Google Chrome\";v=\"109\", \"Chromium\";v=\"109\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "body": {
+        "key": "value"
+      }
+    }
+  ]
+}

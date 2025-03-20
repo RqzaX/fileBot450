@@ -1,0 +1,158 @@
+[
+    {
+      "name": "Iwanko",
+      "type": ["Thường"],
+      "evolutions": [
+        {
+          "name": "Rugarugan (Ban Trưa)",
+          "stats": { "HP": 960, "ATK": 62, "SPEED": 130 },
+          "img": "https://files.catbox.moe/qnjyuh.jpg"
+        },
+        {
+          "name": "Rugarugan (Đêm Khuya)",
+          "stats": { "HP": 920, "ATK": 68, "SPEED": 131 },
+          "img": "https://files.catbox.moe/qnjyuh.jpg"
+        },
+        {
+          "name": "Rugarugan (Hoàng Hôn)",
+          "stats": { "HP": 930, "ATK": 65, "SPEED": 138 },
+          "img": "https://files.catbox.moe/qnjyuh.jpg"
+
+        }
+      ],
+      "skills": ["Mud-Slap", "Rock Polish", "Stealth Rock"],
+      "stats": { "HP": 250, "ATK": 18, "SPEED": 50 },
+      "img": "https://files.catbox.moe/qnjyuh.jpg"
+    },
+    {
+      "name": "Nyabi",
+      "type": ["Lửa Bóng Tối"],
+      "evolutions": [
+        {
+          "name": "Nyahito",
+          "stats": { "HP": 530, "ATK": 50, "SPEED": 116 }
+        },
+        {
+          "name": "Gaogaen",
+          "stats": { "HP": 930, "ATK": 66, "SPEED": 135 }
+        }
+      ],
+      "skills": ["Will-O-Wisp", "Topsy-Turvy", "Switcheroo"],
+      "stats": { "HP": 220, "ATK": 17, "SPEED": 51 }
+    },
+    {
+      "name": "Mokuro",
+      "type": ["Thường"],
+      "evolutions": [
+        {
+          "name": "Fukusuro",
+          "stats": { "HP": 530, "ATK": 47, "SPEED": 117 }
+        },
+        {
+          "name": "Junaipa",
+          "stats": { "HP": 900, "ATK": 63, "SPEED": 136 }
+        }
+      ],
+      "skills": ["Swallow", "Supersonic", "Perish Song"],
+      "stats": { "HP": 220, "ATK": 16, "SPEED": 52 }
+    },
+    {
+      "name": "Vulpix",
+      "type": ["Lửa"],
+      "evolutions": [
+        {
+          "name": "Alolan Ninetales (Băng)",
+          "stats": { "HP": 920, "ATK": 66, "SPEED": 140 }
+        },
+        {
+          "name": "Alolan Ninetales (Nham)",
+          "stats": { "HP": 950, "ATK": 67, "SPEED": 139 }
+        }
+      ],
+      "skills": ["Freeze Shock", "Ice Shard", "Icicle Spear", "Sacred Fire", "Eruption", "Fire Spin"],
+      "stats": { "HP": 200, "ATK": 17, "SPEED": 53 }
+    },
+    {
+      "name": "Null",
+      "type": ["Thường"],
+      "evolutions": [
+        {
+          "name": "Shiruvadi",
+          "stats": { "HP": 970, "ATK": 67, "SPEED": 136 }
+        }
+      ],
+      "skills": ["Nature Power", "Mean Look", "Tri Attack"],
+      "stats": { "HP": 970, "ATK": 67, "SPEED": 136 }
+    },
+    {
+      "name": "Zamazenta",
+      "type": ["Giác Đấu Thép"],
+      "evolutions": [
+        {
+          "name": "Zamazenta Mega",
+          "stats": { "HP": 2000, "ATK": 100, "SPEED": 250 }
+        }
+      ],
+      "skills": ["Close Combat", "Cross Chop", "Gear Grind", "Metal Claw", "Metal Burst"],
+      "stats": { "HP": 1800, "ATK": 70, "SPEED": 230 }
+    },
+    {
+      "name": "Zacian",
+      "type": ["Tiên Thép"],
+      "evolutions": [
+        {
+          "name": "Zacian Mega",
+          "stats": { "HP": 1700, "ATK": 120, "SPEED": 260 }
+        }
+      ],
+      "skills": ["Dazzling Gleam", "Draining Kiss", "Fairy Wind", "Flash Cannon"],
+      "stats": { "HP": 1500, "ATK": 100, "SPEED": 240 }
+    },
+    {
+      "name": "Tapu Koko",
+      "type": ["Điện Tiên"],
+      "skills": ["Thunder Shock", "Moonblast", "Shock Wave", "Rising Voltage"],
+      "stats": { "HP": 1000, "ATK": 77, "SPEED": 160 }
+    },
+    {
+      "name": "Tapu Lele",
+      "type": ["Siêu Linh Tiên"],
+      "skills": ["Psybeam", "Psychic", "Psycho Boost", "Psywave"],
+      "stats": { "HP": 990, "ATK": 75, "SPEED": 150 }
+    },
+    {
+      "name": "Tapu Bulu",
+      "type": ["Cỏ Tiên"],
+      "skills": ["Petal Dance", "Moonblast", "Magical Leaf", "Frenzy Plant"],
+      "stats": { "HP": 1100, "ATK": 75, "SPEED": 146 }
+    },
+    {
+      "name": "Tapu Fini",
+      "type": ["Nước Tiên"],
+      "skills": ["Fleur Cannon", "Bubble Beam", "Hydro Cannon", "Octazooka"],
+      "stats": { "HP": 995, "ATK": 76, "SPEED": 153 }
+    },
+    {
+      "name": "Kosumoggu",
+      "type": ["Siêu Linh"],
+      "evolutions": [
+        {
+          "name": "Kosumoumu",
+          "stats": { "HP": 0, "ATK": 0, "SPEED": 0 }
+        },
+        {
+          "name": "Sorugareo",
+          "stats": { "HP": 1000, "ATK": 80, "SPEED": 170 }
+        }
+      ],
+      "skills": ["Psybeam", "Psycho Boost", "Flash Cannon"],
+      "stats": { "HP": 300, "ATK": 25, "SPEED": 53 }
+    },
+    {
+      "name": "Lunala",
+      "type": ["Siêu Linh Ma"],
+      "skills": ["Psychic", "Prismatic Laser", "Night Shade"],
+      "stats": { "HP": 995, "ATK": 75, "SPEED": 166 }
+    }
+  ]
+  

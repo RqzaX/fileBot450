@@ -1,0 +1,98 @@
+{
+    "6465798140163713": [
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "100035421814099"
+            },
+            "output": "con cặc",
+            "url": "anime"
+        }
+    ],
+    "8201910669832758": [
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "100035421814099"
+            },
+            "output": "xyz",
+            "url": "rd_girl"
+        },
+        {
+            "output": "chào em nha",
+            "short_type": {
+                "type": "autosend",
+                "loai": 1
+            },
+            "sendTime": "18:55:00",
+            "url": "🦴"
+        }
+    ],
+    "6878534095548019": [],
+    "25051623374452223": [
+        {
+            "short_type": {
+                "type": "join",
+                "senderID": "509484270"
+            },
+            "output": "chào {name} , bạn là thành viên thứ {soThanhVien} của nhóm {nameThread} người thêm là {authorName} \nthời gian: {time}",
+            "url": "rd_girl"
+        }
+    ],
+    "8635678413206032": [
+        {
+            "short_type": {
+                "type": "join",
+                "senderID": "509484270"
+            },
+            "output": "hi {name}",
+            "url": "rd_girl"
+        }
+    ],
+    "8245979718862810": [
+        {
+            "input": "nah",
+            "output": "abcxyz",
+            "url": "s"
+        },
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "100041105450808"
+            },
+            "output": "i love bach",
+            "file": "mp4",
+            "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/476882722_9085151974937218_2968601818875872575_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=n2ZbxE2ZHRMQ7kNvgH9EbXj&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=AWVmpVphlx4u2OPAhu1G3gu&oh=03_Q7cD1gFvSdsJUHocwgwn2fmwKnDzEe_D2-rOW_LwCdQOHYxV_w&oe=67AFD147&dl=1"
+        },
+        {
+            "short_type": {
+                "type": "join",
+                "senderID": "61572216494063"
+            },
+            "output": "hi {name} , bạn giới thiệu tên, tuổi + show acc nhé, thank youuu:3!",
+            "url": "s"
+        }
+    ],
+    "8867281286641611": [
+        {
+            "output": "xyz",
+            "short_type": {
+                "type": "autosend",
+                "loai": 1
+            },
+            "sendTime": "08:54:59",
+            "file": "jpg",
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/479702169_2002242343604297_8120866518419572541_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=9f807c&_nc_ohc=29nqpAKqPtIQ7kNvgGdNNZJ&_nc_oc=Adh9tkx2QcWI77dWv_7Ex0MRq47g3ATN0qlAlJ4qsCe9vER3dHAIeSreElVap-pmr1w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gHa9lsdD0iziLFaPrSp1Kf2M6X2bpnAfbKYD8nkI2K2SQ&oe=67DB68C7"
+        },
+        {
+            "output": "cccc",
+            "short_type": {
+                "type": "autosend",
+                "loai": 1
+            },
+            "sendTime": "08:55:59",
+            "file": "jpg",
+            "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/477034924_976020327817521_4846304622851373298_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=8nY8oKRMM2AQ7kNvgFtD834&_nc_oc=AdhZ1zWA7HvKTAidGTYw_cIparJJHiK88d8pUzxsXPqIG1sQQgW48qQG9U9xZwrjE6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gG5ity7o2JvYi0cVwgjStqqah-_mYvAkLvCyIKDTvzScg&oe=67DB48E6"
+        }
+    ]
+}

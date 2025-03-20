@@ -1,0 +1,183 @@
+[
+    {
+      "name": "Fushigidane",
+      "type": ["Cỏ Độc"],
+      "evolutions": [
+        {
+          "name": "Fushigisou",
+          "stats": { "HP": 650, "ATK": 45, "SPEED": 100 }
+        },
+        {
+          "name": "Fushigibana",
+          "stats": { "HP": 950, "ATK": 60, "SPEED": 125 }
+        },
+        {
+          "name": "Fushigibana Mega",
+          "stats": { "HP": 1050, "ATK": 80, "SPEED": 130 }
+        }
+      ],
+      "skills": ["Acid", "Leech Seed", "Petal Dance"],
+      "stats": { "HP": 300, "ATK": 15, "SPEED": 50 }
+    },
+    {
+      "name": "Hitokage",
+      "type": ["Lửa"],
+      "evolutions": [
+        {
+          "name": "Lizardo",
+          "stats": { "HP": 600, "ATK": 50, "SPEED": 105 }
+        },
+        {
+          "name": "Lizardon",
+          "stats": { "HP": 900, "ATK": 65, "SPEED": 130 }
+        },
+        {
+          "name": "Lizardon Mega X",
+          "type": ["Lửa Rồng"],
+          "stats": { "HP": 1000, "ATK": 85, "SPEED": 140 }
+        },
+        {
+          "name": "Lizardon Mega Y",
+          "type": ["Lửa Bay"],
+          "stats": { "HP": 1100, "ATK": 70, "SPEED": 130 }
+        }
+      ],
+      "skills": ["Dragon Rage", "Gust", "Flamethrower", "Flame Wheel"],
+      "stats": { "HP": 250, "ATK": 20, "SPEED": 53 }
+    },
+    {
+      "name": "Zenigame",
+      "type": ["Nước"],
+      "evolutions": [
+        {
+          "name": "Kameil",
+          "stats": { "HP": 620, "ATK": 52, "SPEED": 102 }
+        },
+        {
+          "name": "Kamex",
+          "stats": { "HP": 902, "ATK": 62, "SPEED": 122 }
+        },
+        {
+          "name": "Kamex Mega",
+          "stats": { "HP": 990, "ATK": 82, "SPEED": 135 }
+        }
+      ],
+      "skills": ["Water Gun", "Bubble Beam", "Hydro Pump"],
+      "stats": { "HP": 270, "ATK": 16, "SPEED": 51 }
+    },
+    {
+      "name": "Poppo",
+      "type": ["Thường Bay"],
+      "evolutions": [
+        {
+          "name": "Pigeon",
+          "stats": { "HP": 500, "ATK": 52, "SPEED": 110 }
+        },
+        {
+          "name": "Pigeot",
+          "stats": { "HP": 850, "ATK": 65, "SPEED": 140 }
+        },
+        {
+          "name": "Pigeot Mega",
+          "stats": { "HP": 950, "ATK": 82, "SPEED": 145 }
+        }
+      ],
+      "skills": ["Drill Peck", "Double-Edge", "Peck"],
+      "stats": { "HP": 200, "ATK": 17, "SPEED": 55 }
+    },
+    {
+      "name": "Ghos",
+      "type": ["Ma Độc"],
+      "evolutions": [
+        {
+          "name": "Ghost",
+          "stats": { "HP": 600, "ATK": 50, "SPEED": 104 }
+        },
+        {
+          "name": "Gangar",
+          "stats": { "HP": 900, "ATK": 65, "SPEED": 129 }
+        }
+      ],
+      "skills": ["Confuse Ray", "Lick", "Night Shade"],
+      "stats": { "HP": 250, "ATK": 20, "SPEED": 54 }
+    },
+    {
+      "name": "Karakara",
+      "type": ["Đất"],
+      "evolutions": [
+        {
+          "name": "Garagara",
+          "stats": { "HP": 950, "ATK": 60, "SPEED": 125 }
+        }
+      ],
+      "skills": ["Earthquake", "Pound", "Rock Slide"],
+      "stats": { "HP": 300, "ATK": 15, "SPEED": 49 }
+    },
+    {
+      "name": "Pichu",
+      "type": ["Điện"],
+      "evolutions": [
+        {
+          "name": "Pikachu",
+          "stats": { "HP": 620, "ATK": 52, "SPEED": 105 }
+        },
+        {
+          "name": "Raichu",
+          "stats": { "HP": 902, "ATK": 62, "SPEED": 130 }
+        }
+      ],
+      "skills": ["Thunderbolt", "Spark", "Zap Cannon"],
+      "stats": { "HP": 200, "ATK": 17, "SPEED": 56 }
+    },
+    {
+      "name": "Casey",
+      "type": ["Siêu Linh"],
+      "evolutions": [
+        {
+          "name": "Yungerer",
+          "stats": { "HP": 600, "ATK": 50, "SPEED": 100 }
+        },
+        {
+          "name": "Foodin",
+          "stats": { "HP": 900, "ATK": 65, "SPEED": 130 }
+        },
+        {
+          "name": "Foodin Mega",
+          "stats": { "HP": 1100, "ATK": 70, "SPEED": 135 }
+        }
+      ],
+      "skills": ["Confusion", "Dream Eater", "Light Screen"],
+      "stats": { "HP": 250, "ATK": 20, "SPEED": 50 }
+    },
+    {
+      "name": "Mewtwo",
+      "type": ["Siêu Linh"],
+      "evolutions": [
+        {
+          "name": "Mewtwo Mega X",
+          "type": ["Siêu Linh Giác Đấu"],
+          "stats": { "HP": 1500, "ATK": 80, "SPEED": 250 }
+        },
+        {
+          "name": "Mewtwo Mega Y",
+          "type": ["Siêu Linh"],
+          "stats": { "HP": 15600, "ATK": 70, "SPEED": 240 }
+        }
+      ],
+      "skills": ["Psywave", "Psybeam", "Confusion", "Heart Stamp"],
+      "stats": { "HP": 400, "ATK": 40, "SPEED": 100 }
+    },
+    {
+      "name": "Rayquaza",
+      "type": ["Rồng Bay"],
+      "evolutions": [
+        {
+          "name": "Rayquaza Mega",
+          "stats": { "HP": 1500, "ATK": 80, "SPEED": 255 }
+        }
+      ],
+      "skills": ["Dragon Spout", "Primal Power", "Air Slash", "Dragon Qigong", "Dragon Riot"],
+      "stats": { "HP": 450, "ATK": 45, "SPEED": 150 }
+    }
+  ]
+  

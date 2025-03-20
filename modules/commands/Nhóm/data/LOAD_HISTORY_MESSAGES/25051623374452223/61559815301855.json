@@ -1,0 +1,264 @@
+{
+  "messages": [
+    {
+      "body": "🖋",
+      "timestamp": "1735387535209",
+      "attachments": []
+    },
+    {
+      "body": "Prefix của hệ thống: \"\nPrefix của nhóm bạn: \"",
+      "timestamp": 1735398450536,
+      "attachments": []
+    },
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ \"menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: admin",
+      "timestamp": 1735398454592,
+      "attachments": []
+    },
+    {
+      "body": "🕒 22:07:38 | 📅 28/12/2024\n⌛ Thời gian hoạt động: 00:01:04\n🔣 Trạng thái bot: trung bình\n🛢️ Tổng RAM: 15.87GB\n🔍 RAM còn lại: 10.58GB\n💾 RAM đã sử dụng: 5.29GB\n📈 Sử dụng RAM RSS: 199.61MB\n📊 Tổng Heap: 132.60MB\n🔋 Heap Đã sử dụng: 102.30MB\n🔍 Bộ nhớ bên ngoài: 3.66MB\n📊 Dung lượng lưu trữ còn lại: 161.76GB\n🗂️ Tổng số gói: 88\n🛜 Ping: 632ms\n💾 Tổng kích thước tập tin: 386.53 MB\n👤 Yêu cầu bởi: Văn Tuấn",
+      "timestamp": 1735398458850,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải thành công 135 modulesvà 2 event",
+      "timestamp": 1735398535004,
+      "attachments": []
+    },
+    {
+      "body": "❎ Lỗi khi tải lại command chatAI",
+      "timestamp": 1735398573466,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải thành công 136 modulesvà 2 event",
+      "timestamp": 1735398622312,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command chatAI!",
+      "timestamp": 1735398703516,
+      "attachments": []
+    },
+    {
+      "body": "```json\n[\n  {\n    \"type\": \"delay\",\n    \"time\": 500\n  },\n  {\n    \"type\": \"chat\",\n    \"user_id\": \"user_id\",\n    \"content\": \"Hiiiiiii 🥰\"\n  },\n  {\n    \"type\": \"add_memory\",\n    \"_id\": \"user_id\",\n    \"data\": {\n      \"relationship\": \"acquaintance\"\n    }\n  }\n]\n```",
+      "timestamp": "1735398710137",
+      "attachments": []
+    },
+    {
+      "body": "❎ Lỗi khi tải lại command chatbot",
+      "timestamp": 1735398732600,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command chatAI!",
+      "timestamp": 1735398740916,
+      "attachments": []
+    },
+    {
+      "body": "```json\n[\n  {\n    \"type\": \"delay\",\n    \"time\": 500\n  },\n  {\n    \"type\": \"chat\",\n    \"user_id\": \"user_id\",\n    \"content\": \"Hiiiiiii 🥰\"\n  },\n  {\n    \"type\": \"add_memory\",\n    \"_id\": \"user_id\",\n    \"data\": {\n      \"relationship\": \"acquaintance\"\n    }\n  }\n]\n```",
+      "timestamp": "1735398749036",
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command chatAI!",
+      "timestamp": 1735398874468,
+      "attachments": []
+    },
+    {
+      "body": "ReferenceError: generateResponse is not defined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Admin\\chatAI.js:113:26)\n    at Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:228:27)",
+      "timestamp": 1735398877340,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải thành công 136 modulesvà 2 event",
+      "timestamp": 1735398898426,
+      "attachments": []
+    },
+    {
+      "body": "Không thể xử lý phản hồi từ AI.",
+      "timestamp": "1735398905553",
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399116489,
+      "attachments": []
+    },
+    {
+      "body": "ReferenceError: message is not defined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Admin\\c.js:112:57)\n    at Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:228:27)",
+      "timestamp": 1735399125628,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399145599,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399295941,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải thành công 136 modulesvà 2 event",
+      "timestamp": 1735399311029,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399375994,
+      "attachments": []
+    },
+    {
+      "body": "Video Gái",
+      "timestamp": 1735399551967,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải thành công 136 modulesvà 2 event",
+      "timestamp": 1735399587284,
+      "attachments": []
+    },
+    {
+      "body": "ReferenceError: bd is not defined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Admin\\c.js:113:44)\n    at Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:228:27)",
+      "timestamp": 1735399592117,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399604753,
+      "attachments": []
+    },
+    {
+      "body": "ReferenceError: history is not defined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Admin\\c.js:114:15)\n    at Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:228:27)",
+      "timestamp": 1735399607922,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399645866,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được BẬT!",
+      "timestamp": 1735399649088,
+      "attachments": []
+    },
+    {
+      "body": "❎ Lỗi khi tải lại command c",
+      "timestamp": 1735399706412,
+      "attachments": []
+    },
+    {
+      "body": "❎ Lỗi khi tải lại command c",
+      "timestamp": 1735399721154,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399737003,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được TẮT!",
+      "timestamp": 1735399745404,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được BẬT!",
+      "timestamp": 1735399753598,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được BẬT!",
+      "timestamp": 1735399794475,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được TẮT!",
+      "timestamp": 1735399799031,
+      "attachments": []
+    },
+    {
+      "body": "❎ Bạn cần cung cấp một đường link ảnh.",
+      "timestamp": 1735399811265,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được BẬT!",
+      "timestamp": 1735399852482,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được TẮT!",
+      "timestamp": 1735399855610,
+      "attachments": []
+    },
+    {
+      "body": "Chatbot đã được BẬT!",
+      "timestamp": 1735399858597,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735399883646,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "timestamp": "1735406958845",
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/72691351_526221718111260_9079595652979097600_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=QFkGmrgU1-UQ7kNvgEtOALR&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=ALwnnL2kuRbUvXqHW39JRvk&oh=00_AYDmR78Zr56UZwY3iJ-qdqNK6jlfUEyUoLd-77DjyN_VPA&oe=6775F068",
+          "type": "sticker"
+        }
+      ]
+    },
+    {
+      "body": "✅ Đã tải lại thành công command c!",
+      "timestamp": 1735406976011,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "timestamp": "1735406978793",
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t39.1997-6/17636467_2041012419459565_4053111678902992896_n.png?_nc_cat=1&ccb=1-7&_nc_sid=23dd7b&_nc_ohc=HEkBDlGHBsoQ7kNvgFQmaK-&_nc_ad=z-m&_nc_cid=0&_nc_zt=26&_nc_ht=scontent.xx&_nc_gid=AgH-QWsiMMDBtumxv_q9E2R&oh=00_AYAljwJgMji2YmiJheZj60dnoePNmvFU5VAW_J3bSmpoog&oe=6775EE67",
+          "type": "sticker"
+        }
+      ]
+    },
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ \"menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: admin",
+      "timestamp": 1736401662136,
+      "attachments": []
+    },
+    {
+      "body": "{\"code\":400,\"message\":\"API key not valid. Please pass a valid API key.\",\"errors\":[{\"message\":\"API key not valid. Please pass a valid API key.\",\"domain\":\"global\",\"reason\":\"badRequest\"}],\"status\":\"INVALID_ARGUMENT\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.ErrorInfo\",\"reason\":\"API_KEY_INVALID\",\"domain\":\"googleapis.com\",\"metadata\":{\"service\":\"youtube.googleapis.com\"}},{\"@type\":\"type.googleapis.com/google.rpc.LocalizedMessage\",\"locale\":\"en-US\",\"message\":\"API key not valid. Please pass a valid API key.\"}]}",
+      "timestamp": 1736401690882,
+      "attachments": []
+    },
+    {
+      "body": "❎ Phần tìm kiếm không được để trống",
+      "timestamp": 1736401723212,
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng nhập \"anime\", \"gái\", hoặc \"trai\" để nhận video tương ứng.",
+      "timestamp": 1736401735158,
+      "attachments": []
+    },
+    {
+      "body": "Video Trai",
+      "timestamp": 1736401738237,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/469879560_27961147850197898_8368021496066151917_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=t11k7JOW36MQ7kNvgHf8jSB&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=AaAdNgcAijI2lhKrbWA4oyg&oh=03_Q7cD1gEImk7xRQhMp0DZ9JC38kbsEAXO07lt3_QTBNwmprHFmg&oe=67814581&dl=1",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+RULE:
+- 15 câu hỏi
+- mỗi câu có 30s để trả lời
+- 3 sự trợ giúp: 
+  1. sự trợ giúp thăm giò ý kiến từ khán giả, các khán giả sẽ đưa ra câu trả lời mà họ cho là đúng
+  2. gọi sự trợ giúp từ người thân hoặc bạn bè để đưa ra câu trả lời
+  3. 50/50: loại bỏ 2 phương án sai
+=>> đi tìm ai là triệu phú
+
+-lựa chọn lĩnh vực:
+

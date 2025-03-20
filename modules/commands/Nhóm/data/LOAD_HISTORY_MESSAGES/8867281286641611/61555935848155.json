@@ -1,0 +1,432 @@
+{
+  "messages": [
+    {
+      "body": "👤 Người dùng: War Xung\n📝 Lệnh không tồn tại\n✅ lệnh gần giống là \"10mm\"\n📌 Liên hệ Admin để được hỗ trợ.\n━━━━━━━━━━━━━━━━━━\n⏳ Uptime: 0:33:33\n⏰ Time: 15:02:17 16/02/2025",
+      "timestamp": 1739695578186,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/464116757_8486699974752094_4405100214287217688_n.mp4?_nc_cat=105&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=T5EcwUq69RYQ7kNvgEoe_zS&_nc_oc=AdhJ5gTuR-QkBYrsMiB0eY-wUe-I8DtgEoGSk8aR1U6Q3f0_d3Y0OljA_VX9ikiWtE8&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=AaqevgM_NDBeV0NPMJEqOcl&oh=03_Q7cD1gF0mcvli4vxfDmnQzhzm7ZfFT3iTK_8oX-9RG1U_JRN2g&oe=67B36B7D&dl=1",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "body": "[ 𝗖𝗠𝗗 ] » 𝐍𝐡𝐮̛̃𝐧𝐠 𝐥𝐞̣̂𝐧𝐡 𝐯𝐮̛̀𝐚 𝐱𝐚̉𝐲 𝐫𝐚 𝐬𝐮̛̣ 𝐜𝐨̂́ 𝐤𝐡𝐢 𝐡𝐞̣̂ 𝐭𝐡𝐨̂́𝐧𝐠 𝐥𝐨𝐚𝐝𝐢𝐧𝐠: - autosendd reason:SyntaxError: Invalid left-hand side in assignment at C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\modules\\commands\\autosendd.js:39\n    await new Promise((resolve, reject) = {\n                      ^^^^^^^^^^^^^^^^^\n\nSyntaxError: Invalid left-hand side in assignment\n    at wrapSafe (internal/modules/cjs/loader.js:1029:16)\n    at Module._compile (internal/modules/cjs/loader.js:1078:27)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)\n    at Module.load (internal/modules/cjs/loader.js:979:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:819:12)\n    at Module.require (internal/modules/cjs/loader.js:1003:19)\n    at require (internal/modules/cjs/helpers.js:107:18)\n    at loadCommand (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\modules\\commands\\cmdv2.js:33:29)\n    at Object.module.exports.run (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\modules\\commands\\cmdv2.js:155:25)\n    at C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\lekhanh\\handle\\handleCommand.js:186:14\n    at C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\lekhanh\\listen.js:309:10\n    at listenerCallback (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\lekhanh.js:452:20)\n    at resolveAttachmentUrl (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\Fca-Horizon-Remastered-main\\src\\listenMqtt.js:448:11)\n    at parseDelta (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\Fca-Horizon-Remastered-main\\src\\listenMqtt.js:463:5)\n    at MqttClient.HandleMessage (C:\\Users\\Administrator\\Downloads\\Singu-Bot-Khanh\\Fca-Horizon-Remastered-main\\src\\listenMqtt.js:283:9)\n    at MqttClient.emit (events.js:400:28)",
+      "timestamp": 1739696528253,
+      "attachments": []
+    },
+    {
+      "body": "✅️ 0 lệnh ❤️\n✏️ modules (autosendd.js) 🌷",
+      "timestamp": 1739696528331,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "🌟 ᴄʜᴀ̀ᴏ ʙᴀ̣ɴ ᴆᴇ̂́ɴ ᴠᴏ̛́ɪ ᴍᴇɴᴜ 🌟\n\n 📋 **Danh sách mục lệnh** 📋\n             🆃🆁🅰🅽🅶 1/4\n1️⃣ Tiện ích || 170 lệnh\n2️⃣ game || 121 lệnh\n3️⃣ Admin || 110 lệnh\n4️⃣ group || 102 lệnh\n5️⃣ random-img || 79 lệnh\n6️⃣ noprefix || 76 lệnh\n7️⃣ Người dùng || 74 lệnh\n8️⃣ Tạo ảnh || 48 lệnh\n9️⃣ Hệ Thống || 46 lệnh\n10️⃣ NSFW || 37 lệnh\n\n💌 Tổng lệnh: 1153\n💡 Reply tin nhắn để xem nhóm lệnh❗\n💡 Dùng `.menu <số trang>` để chuyển trang.\n💡 Dùng `.menu search <từ khóa>` để tìm kiếm.",
+      "timestamp": "1739696569054",
+      "attachments": []
+    },
+    {
+      "body": "Bạn không có quyền thực hiện thao tác này.",
+      "timestamp": 1739696573161,
+      "attachments": []
+    },
+    {
+      "body": "🔍 **Kết quả tìm kiếm:**\n\n🌟 ᴄʜᴀ̀ᴏ ʙᴀ̣ɴ ᴆᴇ̂́ɴ ᴠᴏ̛́ɪ ᴍᴇɴᴜ 🌟\n\n 📋 **Danh sách mục lệnh** 📋\n             🆃🆁🅰🅽🅶 1/4\n1️⃣ Auto || 18 lệnh\n\n💌 Tổng lệnh: 1153\n💡 Reply tin nhắn để xem nhóm lệnh❗\n💡 Dùng `.menu <số trang>` để chuyển trang.\n💡 Dùng `.menu search <từ khóa>` để tìm kiếm.",
+      "timestamp": 1739696631049,
+      "attachments": []
+    },
+    {
+      "body": "🌟 ᴄʜᴀ̀ᴏ ʙᴀ̣ɴ ᴆᴇ̂́ɴ ᴠᴏ̛́ɪ ᴍᴇɴᴜ 🌟\n\n 📋 **Danh sách mục lệnh** 📋\n             🆃🆁🅰🅽🅶 2/4\n11️⃣ Thông tin || 28 lệnh\n12️⃣ Hành động || 27 lệnh\n13️⃣ Công cụ || 27 lệnh\n14️⃣ Study || 26 lệnh\n15️⃣ Auto || 18 lệnh\n16️⃣ Phương tiện || 17 lệnh\n17️⃣ Tình Yêu || 17 lệnh\n18️⃣ Mxh || 16 lệnh\n19️⃣ Tình yêu || 15 lệnh\n20️⃣ video || 13 lệnh\n\n💌 Tổng lệnh: 1153\n💡 Reply tin nhắn để xem nhóm lệnh❗\n💡 Dùng `.menu <số trang>` để chuyển trang.\n💡 Dùng `.menu search <từ khóa>` để tìm kiếm.",
+      "timestamp": "1739696663572",
+      "attachments": []
+    },
+    {
+      "body": "Bạn không có quyền thực hiện thao tác này.",
+      "timestamp": 1739696667992,
+      "attachments": []
+    },
+    {
+      "body": "📋 **Nhóm: Auto**\n\n1. atdccsingu\n2. atdfbsingu\n3. atdigsingu\n4. atdsingu\n5. atdtwsingu\n6. atdytsingu\n7. auto\n8. autoadd\n9. autobanthread\n10. autobanuser\n11. autodowncc\n12. autodowig\n13. autorep\n14. autotrans\n15. autotrans=vi\n16. autott\n17. autoweather\n18. chui3que\n\n💡 Reply số thứ tự để xem thông tin chi tiết lệnh.",
+      "timestamp": "1739696675063",
+      "attachments": []
+    },
+    {
+      "body": "Đã true thành công",
+      "timestamp": 1739696782390,
+      "attachments": []
+    },
+    {
+      "body": "Nam đã rời khỏi nhóm.",
+      "timestamp": "1739697260392",
+      "attachments": []
+    },
+    {
+      "body": "✅ Nam đã bị bắt trở lại nhóm!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739697263437",
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của Nam.",
+      "timestamp": "1739697264830",
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739697264909",
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: Nam\n🆔Id: 61571695333999\n\n┣➤ Tên cũ: 『 * 』 ⪼ 𝓥𝓝𝓪𝓶\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:14 - 16/02/2025",
+      "timestamp": "1739697265932",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Một người liên hệ đã rời nhóm.",
+      "timestamp": "1739697748614",
+      "attachments": []
+    },
+    {
+      "body": "🚨 Nam Nguyễn đã rời nhóm nhưng bot không thể thêm lại!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739697749147",
+      "attachments": []
+    },
+    {
+      "body": "Đã false thành công",
+      "timestamp": 1739698174078,
+      "attachments": []
+    },
+    {
+      "body": "[ 𝗖𝗠𝗗 ] » 𝐓𝐡𝐚̀𝐧𝐡 𝐜𝐨̂𝐧𝐠 𝐡𝐮𝐲̉ 1 𝐥𝐞̣̂𝐧𝐡 ✨",
+      "timestamp": 1739698295054,
+      "attachments": []
+    },
+    {
+      "body": "🛑Thành viên🛑\nĐã có mặt trong nhóm",
+      "timestamp": 1739698569697,
+      "attachments": []
+    },
+    {
+      "body": "[ / ] • 𝕊𝕒𝕥𝕠𝕣𝕦 | HSD: 11/03/2025 đã đổi chủ đề thành Hà mã Moo Deng 🦛",
+      "timestamp": "1739698816139",
+      "attachments": []
+    },
+    {
+      "body": "⚠️Không thể thêm thành viên vào nhóm❌",
+      "timestamp": 1739698910577,
+      "attachments": []
+    },
+    {
+      "body": "🛠️ Auto-add đã được ✅ bật thành công!",
+      "timestamp": 1739698953165,
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739698958021,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể thêm thành viên vào nhóm!",
+      "timestamp": 1739698966444,
+      "attachments": []
+    },
+    {
+      "body": "War Xung đã rời khỏi nhóm.",
+      "timestamp": "1739698979803",
+      "attachments": []
+    },
+    {
+      "body": "✅ War Xung đã bị bắt trở lại nhóm!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739698981240",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể thêm thành viên vào nhóm!",
+      "timestamp": 1739698981912,
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739698982067,
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của War Xung.",
+      "timestamp": "1739698983039",
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739698983117",
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: War Xung\n🆔Id: 61557926310385\n\n┣➤ Tên cũ: 𓏪𓉚SINGU-💌💌◡̈⃝︎🛸𓉛𓏪\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:43 - 16/02/2025",
+      "timestamp": "1739698985217",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể thêm thành viên vào nhóm!",
+      "timestamp": 1739699011542,
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739699195971,
+      "attachments": []
+    },
+    {
+      "body": "Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã rời khỏi nhóm.",
+      "timestamp": "1739699281848",
+      "attachments": []
+    },
+    {
+      "body": "✅ Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã bị bắt trở lại nhóm!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739699283246",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể thêm thành viên vào nhóm!",
+      "timestamp": 1739699284669,
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739699285273",
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á.",
+      "timestamp": "1739699285343",
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739699285270,
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á\n🆔Id: 61557595334035\n\n┣➤ Tên cũ: ☑️SINGU-💌\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:48 - 16/02/2025",
+      "timestamp": "1739699286264",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "╭─────────────⭓\n│ Anti Change Info Group\n├─────⭔\n│ 1. anti namebox\n│ 2. anti boximage\n│ 3. anti nickname\n│ 4. anti out\n│ 5. anti theme\n│ 6. anti qtv\n│ 7. check trạng thái anti của nhóm\n├────────⭔\n│ 📌 Reply (phản hồi) theo stt để chọn chế độ mà bạn muốn thay đổi trạng thái\n╰─────────────⭓",
+      "timestamp": 1739699304562,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "[ 𝘼𝙣𝙏𝙞 𝙊𝙪𝙩 ] =>. Đã bật thành công chống out chùa!",
+      "timestamp": "1739699311067",
+      "attachments": []
+    },
+    {
+      "body": "[ 𝘼𝙣𝙏𝙞 𝙊𝙪𝙩 ] =>. Đã tắt thành công chống out chùa!",
+      "timestamp": "1739699318781",
+      "attachments": []
+    },
+    {
+      "body": "Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã rời khỏi nhóm.",
+      "timestamp": "1739699435060",
+      "attachments": []
+    },
+    {
+      "body": "✅ Thêm thành viên vào nhóm thành công!",
+      "timestamp": 1739699438622,
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739699439973,
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á.",
+      "timestamp": "1739699440930",
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739699440974",
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á\n🆔Id: 61557595334035\n\n┣➤ Tên cũ: tên gốc\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:50 - 16/02/2025",
+      "timestamp": "1739699441943",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "[ 𝘼𝙣𝙏𝙞 𝙊𝙪𝙩 ] =>. Đã bật thành công chống out chùa!",
+      "timestamp": "1739699468771",
+      "attachments": []
+    },
+    {
+      "body": "🛠️ Auto-add đã được ❌ tắt thành công!",
+      "timestamp": 1739699506288,
+      "attachments": []
+    },
+    {
+      "body": "Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã rời khỏi nhóm.",
+      "timestamp": "1739699512439",
+      "attachments": []
+    },
+    {
+      "body": "✅ Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã bị bắt trở lại nhóm!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739699514208",
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á.",
+      "timestamp": "1739699515899",
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739699516054",
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á\n🆔Id: 61557595334035\n\n┣➤ Tên cũ: tên gốc\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:51 - 16/02/2025",
+      "timestamp": "1739699517523",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Một người liên hệ đã rời nhóm.",
+      "timestamp": "1739699598485",
+      "attachments": []
+    },
+    {
+      "body": "🚨 Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á đã rời nhóm nhưng bot không thể thêm lại!\n⏰ Thời gian: 15:13:03",
+      "timestamp": "1739699599311",
+      "attachments": []
+    },
+    {
+      "body": "🛠️ Auto-add đã được ✅ bật thành công!",
+      "timestamp": 1739699658198,
+      "attachments": []
+    },
+    {
+      "body": "✅ Thêm thành viên vào nhóm thành công!",
+      "timestamp": 1739699663996,
+      "attachments": []
+    },
+    {
+      "body": "[ • ] • 𝑺𝒖𝒎𝒊 đã xóa biệt danh của Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á.",
+      "timestamp": "1739699666208",
+      "attachments": []
+    },
+    {
+      "body": "👀𝑯𝒐𝒕 𝑩𝒐𝒚 𝑺𝒊𝒏𝒈𝒖",
+      "timestamp": "1739699666223",
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739699666266,
+      "attachments": []
+    },
+    {
+      "body": "━━〈 CẬP NHẬT NHÓM 〉━━\n\n1️⃣👤Người thực hiện: Nguyễn Đinh Tiến Dũng\n🆔Id: 61569842886457\n🚨Đã đổi biệt danh của ⬇️\n2️⃣👤Người nhận: Anh là singu đất rộng tiền nhiều xứng đáng yêu em chưa em gái xinh kia ơi ngu vậy luôn á\n🆔Id: 61557595334035\n\n┣➤ Tên cũ: tên gốc\n┣➤ Tên mới: tên gốc\n────────────────────\n⏰Thời gian: 16:54 - 16/02/2025",
+      "timestamp": "1739699667793",
+      "attachments": [
+        {
+          "url": null,
+          "type": "share"
+        }
+      ]
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm!",
+      "timestamp": 1739699911665,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể thêm thành viên vào nhóm!",
+      "timestamp": 1739701482864,
+      "attachments": []
+    },
+    {
+      "body": "✨Lệnh auto đã ✅Bật sẵn...",
+      "timestamp": 1739701549629,
+      "attachments": []
+    },
+    {
+      "body": "✅️ 1 lệnh ❤️\n✏️ modules (autoadd.js) 🌷",
+      "timestamp": 1739701695761,
+      "attachments": []
+    },
+    {
+      "body": "✨Autoadd Allbox✨ ✅Bật thành công",
+      "timestamp": 1739701710004,
+      "attachments": []
+    },
+    {
+      "body": "🪄Autoadd ✅Bật thành công❕",
+      "timestamp": 1739701722787,
+      "attachments": []
+    },
+    {
+      "body": "🛑 Thành viên đã có mặt trong nhóm.",
+      "timestamp": 1739701764618,
+      "attachments": []
+    },
+    {
+      "body": "🪄Autoadd ❌Tắt thành công!",
+      "timestamp": 1739701804051,
+      "attachments": []
+    }
+  ]
+}

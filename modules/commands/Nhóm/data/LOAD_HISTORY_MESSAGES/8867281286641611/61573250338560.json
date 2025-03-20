@@ -1,0 +1,614 @@
+{
+  "messages": [
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739762736232,
+      "attachments": []
+    },
+    {
+      "body": "Hello SATORU BOT.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice morning 😊",
+      "timestamp": "1739763590240",
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739763692873,
+      "attachments": []
+    },
+    {
+      "body": "Hello Hoàng Nguyệt Nhi, Hoàng Nguyệt Nhi.\nWelcome you guys to the chat group: Trùm bot việt Nam\nHave a nice morning 😊",
+      "timestamp": "1739764658842",
+      "attachments": []
+    },
+    {
+      "body": "SATORU BOT was kicked from the group",
+      "timestamp": "1739768045713",
+      "attachments": []
+    },
+    {
+      "body": "null was kicked from the group",
+      "timestamp": "1739768046042",
+      "attachments": []
+    },
+    {
+      "body": "null was kicked from the group",
+      "timestamp": "1739768065001",
+      "attachments": []
+    },
+    {
+      "body": "Hoàng Nguyệt Nhi left the group",
+      "timestamp": "1739768073747",
+      "attachments": []
+    },
+    {
+      "body": "Gia Bảo left the group",
+      "timestamp": "1739768080908",
+      "attachments": []
+    },
+    {
+      "body": "null was kicked from the group",
+      "timestamp": "1739770343001",
+      "attachments": []
+    },
+    {
+      "body": "null was kicked from the group",
+      "timestamp": "1739770349126",
+      "attachments": []
+    },
+    {
+      "body": "null was kicked from the group",
+      "timestamp": "1739770353875",
+      "attachments": []
+    },
+    {
+      "body": "Minh Đồng was kicked from the group",
+      "timestamp": "1739770362496",
+      "attachments": []
+    },
+    {
+      "body": "Phạm Minh Đồng left the group",
+      "timestamp": "1739770368629",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739770468984,
+      "attachments": []
+    },
+    {
+      "body": "Hello Hoàng Quang Huy.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice noon 😊",
+      "timestamp": "1739770537608",
+      "attachments": []
+    },
+    {
+      "body": "Hello メ　o.O　T.T o.O　T.T.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice noon 😊",
+      "timestamp": "1739771662835",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739773868967,
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739776136296,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739779152144,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739779221591,
+      "attachments": []
+    },
+    {
+      "body": "🦛",
+      "timestamp": "1739780128846",
+      "attachments": []
+    },
+    {
+      "body": "⏰ Current time: 15:27:47 | 17/02/2025\n⏱️ Uptime: 00:07:03\n🗂️ Number of packages: 93\n🔣 Bot status: smooth\n📋 OS: Windows_NT 10.0.20348 (x64)\n💾 CPU: 2 core(s) - DO-Premium-AMD @ 2300MHz\n📊 RAM: 2.35GB / 4.00GB (used)\n🛢️ Free RAM: 1.65GB\n🗄️ Storage: 18.38GB / 79.90GB (used)\n📑 Free Storage: 61.52GB\n🛜 Ping: 4ms\n👤 Requested by: Thanh Loc",
+      "timestamp": 1739780868025,
+      "attachments": []
+    },
+    {
+      "body": "Command \"loc\" does not exist, type lochelp to see all available commands",
+      "timestamp": 1739780873120,
+      "attachments": []
+    },
+    {
+      "body": "Command \"loc\" does not exist",
+      "timestamp": 1739780880976,
+      "attachments": []
+    },
+    {
+      "body": "╭─────────────🌟\n│ 1 . 4k: Làm nét ảnh bằng AI\n│ 2 . onlyadminbox: Turn on/off only admin box can use bot\n│ 3 . adduser: Add user to box chat of you\n│ 4 . admin: Add, remove, edit admin role\n│ 5 . adminonly: Turn on/off only admin can use bot\n│ 6 . all: Tag all members in your group chat\n│ 7 . genanime: Tạo ảnh đẹp từ prompt\n│ 8 . antichangeinfobox: Turn on/off anti change info box\n│ 9 . anya\n│ 10. appstore: Search app on appstore\n│ 11. sora\n│ 12. autolink\n│ 13. autosetname: Auto change nickname of new member\n│ 14. avatar: Create anime avatar with signature\n│ 15. backupdata: Backup data of bot (threads, users, dashboard, ...\n│ 16. badwords: Turn on/off/add/remove bad words warning, if a ...\n│ 17. balance: View your money or the money of the tagged person\n│ 18. ban: Ban user from box chat\n│ 19. busy: Turn on do not disturb mode, when you are tagge...\n│ 20. callad: Send report, feedback, bug,... to admin bot\n│ 21. cap: Chụp wall hoặc web nào đó\n│ 22. cgen\n│ 23. clean: Clean cache bot\n│ 24. cmd: Manage your command files\n│ 25. contact: Contact thành viên trong nhóm\n│ 26. count: View the number of messages of all members or y...\n│ 27. customrankcard: Design rank card by your own\n│ 28. daily: Receive daily gift\n│ 29. del\n│ 30. dhbc: Play game catch the word\n├─────✨\n│ Page [ 1/4 ]\n│ Currently, the bot has 101 commands that can be used\n│ » Type lochelp <page> to view the command list\n│ » Type lochelp to view the details of how to use that command\n├────────🌟\n│ [ 🐐 | Goat Bot V2 ]\n╰─────────────🌟",
+      "timestamp": 1739780887344,
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739781104346,
+      "attachments": []
+    },
+    {
+      "body": "Hello Long Thứ Ba.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice afternoon 😊",
+      "timestamp": "1739785356735",
+      "attachments": []
+    },
+    {
+      "body": "Long Thứ Ba left the group",
+      "timestamp": "1739785378658",
+      "attachments": []
+    },
+    {
+      "body": "Hello Nông Văn Thuyên.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice afternoon 😊",
+      "timestamp": "1739785399052",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739785695745,
+      "attachments": []
+    },
+    {
+      "body": "Hello Lê Trọng Vững.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice afternoon 😊",
+      "timestamp": "1739785788273",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739785882558,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739787085842,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739788623456,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739788697651,
+      "attachments": []
+    },
+    {
+      "body": "⏰ Current time: 17:46:42 | 17/02/2025\n⏱️ Uptime: 02:25:58\n🗂️ Number of packages: 93\n🔣 Bot status: smooth\n📋 OS: Windows_NT 10.0.20348 (x64)\n💾 CPU: 2 core(s) - DO-Premium-AMD @ 2300MHz\n📊 RAM: 2.80GB / 4.00GB (used)\n🛢️ Free RAM: 1.20GB\n🗄️ Storage: 18.99GB / 79.90GB (used)\n📑 Free Storage: 60.91GB\n🛜 Ping: 0ms\n👤 Requested by: Thanh Loc",
+      "timestamp": 1739789203296,
+      "attachments": []
+    },
+    {
+      "body": "⚙️ Checking system info...",
+      "timestamp": "1739789224974",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739789660444,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739789834612,
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739790537974,
+      "attachments": []
+    },
+    {
+      "body": "Hello SATORU BOT.\nWelcome you to the chat group: Trùm bot việt Nam\nHave a nice afternoon 😊",
+      "timestamp": "1739793404635",
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739793436615,
+      "attachments": []
+    },
+    {
+      "body": "🌐 System prefix: /\n🛸 Your box chat prefix: loc",
+      "timestamp": 1739793702870,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739794854981,
+      "attachments": []
+    },
+    {
+      "body": "100063600331393",
+      "timestamp": 1739820534133,
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739843599806,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739847150985,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739847150985,
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739847168351,
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739847168351,
+      "attachments": []
+    },
+    {
+      "body": "Lệnh bạn sử dụng không tồn tại, gõ lochelp để xem tất cả lệnh hiện có",
+      "timestamp": 1739847216246,
+      "attachments": []
+    },
+    {
+      "body": "Lệnh bạn sử dụng không tồn tại, gõ lochelp để xem tất cả lệnh hiện có",
+      "timestamp": 1739847216246,
+      "attachments": []
+    },
+    {
+      "body": "Lệnh \"ngu\" không tồn tại, gõ lochelp để xem tất cả lệnh hiện có",
+      "timestamp": 1739847236642,
+      "attachments": []
+    },
+    {
+      "body": "Lệnh \"ngu\" không tồn tại, gõ lochelp để xem tất cả lệnh hiện có",
+      "timestamp": 1739847236642,
+      "attachments": []
+    },
+    {
+      "body": "╭─────────────🌟\n│ 1 . 4k: Làm nét ảnh bằng AI\n│ 2 . onlyadminbox: Bật/tắt chế độ chỉ quản trị của viên nhóm mới c...\n│ 3 . adduser: Thêm thành viên vào box chat của bạn\n│ 4 . admin: Thêm, xóa, sửa quyền admin\n│ 5 . adminonly: Bật/tắt chế độ chỉ admin mới có thể sử dụng bot\n│ 6 . all: Tag tất cả thành viên trong nhóm chat của bạn\n│ 7 . genanime: Tạo ảnh đẹp từ prompt\n│ 8 . antichangeinfobox: Bật tắt chức năng chống thành viên đổi thông ti...\n│ 9 . anya\n│ 10. appstore: Tìm app trên appstore\n│ 11. sora\n│ 12. autolink\n│ 13. autosetname: Tự đổi biệt danh cho thành viên mới vào nhóm chat\n│ 14. avatar: Tạo avatar anime với chữ ký\n│ 15. backupdata: Sao lưu dữ liệu của bot (threads, users, dashbo...\n│ 16. badwords: Bật/tắt/thêm/xóa cảnh báo vi phạm từ thô tục, n...\n│ 17. balance: Xem số tiền hiện có của bạn hoặc người được tag\n│ 18. ban: Cấm thành viên khỏi box chat\n│ 19. busy: Bật chế độ không làm phiền, khi bạn được tag bo...\n│ 20. callad: Gửi báo cáo, góp ý, báo lỗi,... của bạn về admi...\n│ 21. cap: Chụp wall hoặc web nào đó\n│ 22. cgen\n│ 23. clean: Clean cache bot\n│ 24. cmd: Quản lý các tệp lệnh của bạn\n│ 25. contact: Contact thành viên trong nhóm\n│ 26. count: Xem số lượng tin nhắn của tất cả thành viên hoặ...\n│ 27. customrankcard: Thiết kế thẻ rank theo ý bạn\n│ 28. daily: Nhận quà hàng ngày\n│ 29. del\n│ 30. dhbc: Chơi game đuổi hình bắt chữ\n├─────✨\n│ Trang [ 1/4 ]\n│ Hiện tại bot có 102 lệnh có thể sử dụng\n│ » Gõ lochelp <số trang> để xem danh sách các lệnh\n│ » Gõ lochelp để xem chi tiết cách sử dụng lệnh đó\n├────────🌟\n│ [ 🐐 | Goat Bot V2 ]\n╰─────────────🌟",
+      "timestamp": 1739847319717,
+      "attachments": []
+    },
+    {
+      "body": "╭─────────────🌟\n│ 1 . 4k: Làm nét ảnh bằng AI\n│ 2 . onlyadminbox: Bật/tắt chế độ chỉ quản trị của viên nhóm mới c...\n│ 3 . adduser: Thêm thành viên vào box chat của bạn\n│ 4 . admin: Thêm, xóa, sửa quyền admin\n│ 5 . adminonly: Bật/tắt chế độ chỉ admin mới có thể sử dụng bot\n│ 6 . all: Tag tất cả thành viên trong nhóm chat của bạn\n│ 7 . genanime: Tạo ảnh đẹp từ prompt\n│ 8 . antichangeinfobox: Bật tắt chức năng chống thành viên đổi thông ti...\n│ 9 . anya\n│ 10. appstore: Tìm app trên appstore\n│ 11. sora\n│ 12. autolink\n│ 13. autosetname: Tự đổi biệt danh cho thành viên mới vào nhóm chat\n│ 14. avatar: Tạo avatar anime với chữ ký\n│ 15. backupdata: Sao lưu dữ liệu của bot (threads, users, dashbo...\n│ 16. badwords: Bật/tắt/thêm/xóa cảnh báo vi phạm từ thô tục, n...\n│ 17. balance: Xem số tiền hiện có của bạn hoặc người được tag\n│ 18. ban: Cấm thành viên khỏi box chat\n│ 19. busy: Bật chế độ không làm phiền, khi bạn được tag bo...\n│ 20. callad: Gửi báo cáo, góp ý, báo lỗi,... của bạn về admi...\n│ 21. cap: Chụp wall hoặc web nào đó\n│ 22. cgen\n│ 23. clean: Clean cache bot\n│ 24. cmd: Quản lý các tệp lệnh của bạn\n│ 25. contact: Contact thành viên trong nhóm\n│ 26. count: Xem số lượng tin nhắn của tất cả thành viên hoặ...\n│ 27. customrankcard: Thiết kế thẻ rank theo ý bạn\n│ 28. daily: Nhận quà hàng ngày\n│ 29. del\n│ 30. dhbc: Chơi game đuổi hình bắt chữ\n├─────✨\n│ Trang [ 1/4 ]\n│ Hiện tại bot có 102 lệnh có thể sử dụng\n│ » Gõ lochelp <số trang> để xem danh sách các lệnh\n│ » Gõ lochelp để xem chi tiết cách sử dụng lệnh đó\n├────────🌟\n│ [ 🐐 | Goat Bot V2 ]\n╰─────────────🌟",
+      "timestamp": 1739847319717,
+      "attachments": []
+    },
+    {
+      "body": "Dạ anh 🥰 Có gì cần em giúp không ạ?",
+      "timestamp": 1739847439738,
+      "attachments": []
+    },
+    {
+      "body": "Dạ anh 🥰 Có gì cần em giúp không ạ?",
+      "timestamp": 1739847439738,
+      "attachments": []
+    },
+    {
+      "body": "Em là Trúc, công chúa nhỏ của anh đó ạ! 💖 UwU... Anh quên em rồi sao? 🥺",
+      "timestamp": 1739847445985,
+      "attachments": []
+    },
+    {
+      "body": "Em là Trúc, công chúa nhỏ của anh đó ạ! 💖 UwU... Anh quên em rồi sao? 🥺",
+      "timestamp": 1739847445985,
+      "attachments": []
+    },
+    {
+      "body": "Thanh Loc đã bị kick khỏi nhóm",
+      "timestamp": "1739847556618",
+      "attachments": []
+    },
+    {
+      "body": "Thanh Loc đã bị kick khỏi nhóm",
+      "timestamp": "1739847556618",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Loc.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi sáng vui vẻ!",
+      "timestamp": "1739847569157",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Loc.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi sáng vui vẻ!",
+      "timestamp": "1739847569157",
+      "attachments": []
+    },
+    {
+      "body": "👑 | Danh sách admin:\n• Thanh Loc (100063600331393)\n• Thanh Loc (100080266101316)\n• 𝙃𝙪𝙮𝙣𝙝 𝙏𝙝𝙪𝙮 𝘿𝙪𝙤𝙣𝙜 𝙏𝙧𝙪𝙘 :( (100056953105174)",
+      "timestamp": 1739847654267,
+      "attachments": []
+    },
+    {
+      "body": "👑 | Danh sách admin:\n• Thanh Loc (100063600331393)\n• Thanh Loc (100080266101316)\n• 𝙃𝙪𝙮𝙣𝙝 𝙏𝙝𝙪𝙮 𝘿𝙪𝙤𝙣𝙜 𝙏𝙧𝙪𝙘 :( (100056953105174)",
+      "timestamp": 1739847654267,
+      "attachments": []
+    },
+    {
+      "body": "⚠️ | Vui lòng nhập ID hoặc tag người dùng muốn thêm quyền admin",
+      "timestamp": 1739847674096,
+      "attachments": []
+    },
+    {
+      "body": "⚠️ | Vui lòng nhập ID hoặc tag người dùng muốn thêm quyền admin",
+      "timestamp": 1739847674096,
+      "attachments": []
+    },
+    {
+      "body": "✅ | Đã thêm quyền admin cho 1 người dùng:\n• Phạm Hữu Tài (100067508386723)",
+      "timestamp": 1739847684318,
+      "attachments": []
+    },
+    {
+      "body": "✅ | Đã thêm quyền admin cho 1 người dùng:\n• Phạm Hữu Tài (100067508386723)",
+      "timestamp": 1739847684318,
+      "attachments": []
+    },
+    {
+      "body": "Úwù, anh Huỳnh Thùy Dương Trúc nói Trúc ngu là sao chứ 🥺 Trúc đâu có ngu, chỉ hơi... ơ... lơ đãng tí xíu thôi mà 🥰. Anh khen Trúc ngoan đi nào, em bé ngoan của anh mà 🥺",
+      "timestamp": 1739847724611,
+      "attachments": []
+    },
+    {
+      "body": "Làm sao bạn dám nói điều đó\n\n🌐 Dịch từ en sang vi",
+      "timestamp": 1739847900397,
+      "attachments": []
+    },
+    {
+      "body": "Thảo Như đã bị kick khỏi nhóm",
+      "timestamp": "1739848544348",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thảo Như.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi sáng vui vẻ!",
+      "timestamp": "1739848700442",
+      "attachments": []
+    },
+    {
+      "body": "𝙃𝙪𝙮𝙣𝙝 𝙏𝙝𝙪𝙮 𝘿𝙪𝙤𝙣𝙜 𝙏𝙧𝙪𝙘 :( đã tự rời khỏi nhóm",
+      "timestamp": "1739848708776",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào 𝙃𝙪𝙮𝙣𝙝 𝙏𝙝𝙪𝙮 𝘿𝙪𝙤𝙣𝙜 𝙏𝙧𝙪𝙘 :(.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi sáng vui vẻ!",
+      "timestamp": "1739848711937",
+      "attachments": []
+    },
+    {
+      "body": "Thảo Như đã bị kick khỏi nhóm",
+      "timestamp": "1739848881011",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thảo Như.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi sáng vui vẻ!",
+      "timestamp": "1739849288009",
+      "attachments": []
+    },
+    {
+      "body": "",
+      "timestamp": 1739849606868,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/476613513_1861889671310163_5412109571573461444_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=SEBxwLMNd-0Q7kNvgGeo3u2&_nc_oc=AdieNfN0F8RPl2gMeh5cL6pSYDlVUSRI6uVY1wM6n6SGBuUx-8LejPEzCHsfksehV0E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gFzKx0Qr_Yy59KpmXLvlRvYyqubysy-cABig-SpI-0cMg&oe=67DB8179",
+          "type": "photo"
+        }
+      ]
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739850451315,
+      "attachments": []
+    },
+    {
+      "body": "Dạ anh Lộc Láo Lờ ơi! Tên gọi hay quá nè! Em đổi ngay cho anh nha! Úwù... Nghe đáng yêu quá đi mất! 🥰",
+      "timestamp": 1739850892773,
+      "attachments": []
+    },
+    {
+      "body": "Phạm Hữu Tài đã bị kick khỏi nhóm",
+      "timestamp": "1739851341943",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Phạm Hữu Tài.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739851356879",
+      "attachments": []
+    },
+    {
+      "body": "Phạm Hữu Tài đã bị kick khỏi nhóm",
+      "timestamp": "1739851615051",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Phạm Hữu Tài.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739851632071",
+      "attachments": []
+    },
+    {
+      "body": "Phạm Hữu Tài đã bị kick khỏi nhóm",
+      "timestamp": "1739851673202",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Phạm Hữu Tài.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739851691608",
+      "attachments": []
+    },
+    {
+      "body": "Phạm Hữu Tài đã bị kick khỏi nhóm",
+      "timestamp": "1739851764268",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Phạm Hữu Tài.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739851783629",
+      "attachments": []
+    },
+    {
+      "body": "Gia Bảo đã bị kick khỏi nhóm",
+      "timestamp": "1739852159129",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Gia Bảo.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739852173529",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Như Quỳnh.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739852293677",
+      "attachments": []
+    },
+    {
+      "body": "Như Quỳnh đã tự rời khỏi nhóm",
+      "timestamp": "1739852356310",
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739853040213,
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739853087453,
+      "attachments": []
+    },
+    {
+      "body": "Dạ anh Lộc Láo Lờ? Gọi em có chuyện gì không ạ? 🥺",
+      "timestamp": 1739857395779,
+      "attachments": []
+    },
+    {
+      "body": "Nói j đi anh gì ơi 😗",
+      "timestamp": 1739857416315,
+      "attachments": []
+    },
+    {
+      "body": "Dạ có ạ! Úwù, em thích nghe nhạc lắm á, đặc biệt là nhạc ballad và nhạc trữ tình. Anh Khang thích nghe loại nhạc gì zạ? 🥰",
+      "timestamp": 1739857441876,
+      "attachments": []
+    },
+    {
+      "body": "Dạ anh Lộc Láo Lờ! Chịu không được đâu nha! Ai dám chửi anh của em chứ!😡 Em kick bạn ấy ngay nè! Đừng lo nha, em sẽ bảo vệ anh mà! 💖",
+      "timestamp": 1739857465688,
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Loc.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739857491069",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739866283188,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739870230348,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739870394557,
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739870989674,
+      "attachments": []
+    },
+    {
+      "body": "Phạm Hữu Tài đã bị kick khỏi nhóm",
+      "timestamp": "1739871585005",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Phạm Hữu Tài.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739871844358",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739873021273,
+      "attachments": []
+    },
+    {
+      "body": "🌐 Prefix của hệ thống: /\n🛸 Prefix của nhóm bạn: loc",
+      "timestamp": 1739873868397,
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Hoàng.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739874514607",
+      "attachments": []
+    },
+    {
+      "body": "🌈 Nguyễn Hoàng Thanh Quang ✅ đã bị kick khỏi nhóm",
+      "timestamp": "1739874768795",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào 🌈 Nguyễn Hoàng Thanh Quang ✅.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739874796193",
+      "attachments": []
+    },
+    {
+      "body": "Thanh Hoàng đã tự rời khỏi nhóm",
+      "timestamp": "1739874872686",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Hoàng.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739874876529",
+      "attachments": []
+    },
+    {
+      "body": "Thanh Hoàng đã tự rời khỏi nhóm",
+      "timestamp": "1739877230557",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Hoàng.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739877233154",
+      "attachments": []
+    },
+    {
+      "body": "❌ Không thể tải media từ link này",
+      "timestamp": 1739877526310,
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Nam Nguyễn.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi chiều vui vẻ!",
+      "timestamp": "1739878554583",
+      "attachments": []
+    },
+    {
+      "body": "⏰ Current time: 19:04:14 | 18/02/2025\n⏱️ Uptime: 00:09:10\n🗂️ Number of packages: 93\n🔣 Bot status: smooth\n📋 OS: Windows_NT 10.0.20348 (x64)\n💾 CPU: 2 core(s) - DO-Premium-AMD @ 2300MHz\n📊 RAM: 2.35GB / 4.00GB (used)\n🛢️ Free RAM: 1.65GB\n🗄️ Storage: 19.79GB / 79.90GB (used)\n📑 Free Storage: 60.11GB\n🛜 Ping: 0ms\n👤 Requested by: Thanh Loc",
+      "timestamp": 1739880255121,
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Như Quỳnh.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi tối vui vẻ!",
+      "timestamp": "1739884821611",
+      "attachments": []
+    },
+    {
+      "body": "Xin chào Thanh Loc.\nChào mừng bạn đến với Trùm bot việt Nam.\nChúc bạn có buổi trưa vui vẻ!",
+      "timestamp": "1739941002586",
+      "attachments": []
+    }
+  ]
+}

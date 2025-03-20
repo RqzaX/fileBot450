@@ -1,0 +1,60 @@
+những điều mới trong bản cập nhật lần này
++ chia nhỏ folder của từng file lệnh, dễ quản lý và xử lý!
++ update lại fca mới
++ fix lại tính năng vượt cảnh báo
++ fix file onl 72h
++ Thêm tính năng mới ở module
+  . trong commands chia nhỏ các folder 
+  . thêm 1 tính năng mới noperfix: bạn chỉ cần thêm lệnh vào thì những lệnh đó sẽ không cần dùng dấu lệnh
++ làm lại hệ thống anti của nhóm
++ thay đổi lệnh checktt 
++ có auto gửi kết quả sổ xố cuối ngày
++ hệ thống video gửi nhanh được thay đổi 3 chế độ
+  1. dùng vd + tên. ví dụ: vd gái,...
++ update thêm 1 số game mới
++ fix lệnh admin
++ hệ thống rent (thuê bot)
++ mod thêm cho upt,... 
++ làm lại toàn bộ file bot khác hơn so với những phiên bản khác
+
+- file đã được test và sửa lỗi, có vấn đề hãy ib người bán file để được hỗ trợ sớm nhất!
+- trong file có hệ thống chống leak, nếu bị phát hiện bạn sẽ bay ổ C
+
+
+ƯU ĐIỂM CỦA FILE:
+nhẹ, 
+gọn, 
+logic, 
+onl lâu có thể lên tới 72h, 
+ít lỗi vặt, 
+update data nhóm thường xuyên
+có hệ thống giám sát chống tràn ram khi treo
+ít lệnh rác!
+
+
+Nhược điểm:
+- tùy bạn cảm nhận=))  có lỗi thì ib người bán để được sp nhanh nhất. thank!
+
+CÁC BẠN KHI THÊM LỆNH MÀ XẢY RA LỖI ADMIN HOÀN TOÀN KHÔNG CHỊU TRÁCH NHIỆM!
+
+NHỮNG LỆNH NỔI TRỘI CỦA FILE: 
++ lệnh tx: lệnh này có 2 chức năng đó là chơi cá nhân hoặc chơi đa nhóm , đại khái nó là tài xỉu server
++ anti: anti có rất nhiều chế độ, admin đang nghiên cứu thêm nhiều tính năng khác
++ rent: tùy bạn cảm nhận:> 
++ admin: lệnh này được mình code lại mới nên nó khác hoàn toàn với những lệnh trước đây!
+....
+còn nhiều lệnh khác , từ từ cảm nhận nhé:3
+
+
+có 2 phiên bản, 1 phiên bản giá 350k, các bạn sẽ có tất cả tính năng trên =)) 
+phiên bản 450k, các bạn sẽ có thêm 1 số lệnh mới hơn
++ shortcut: lệnh này có chức năng set join và lave cho nhóm, set thời gian tự động gửi tin nhắn , có luôn gửi video nhanh 2 chế độ:> các bạn tự cảm nhận nhe:3
+
++ tinder: lệnh này là độc quyền không phải ai cũng có đâu nhé. lệnh này có khả năng ghép đôi xuyên bóc=))) kiểu như là các bạn có thể cập nhật profile của mình vô data sau đó bot sẽ random những data đó ra! nch là nó ghép đôi nhiều bóc!
+
++ nhiều lệnh ảnh hơn
+còn nhiều tính năng, lệnh nữa:33
+
+
+bản 350 đây là lần cuối cùng update
+bản 450 sẽ còn thêm 1 lần update nữa mới hết!

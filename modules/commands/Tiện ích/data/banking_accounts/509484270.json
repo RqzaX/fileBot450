@@ -1,0 +1,32 @@
+{
+    "uid": "509484270",
+    "accountNumber": "832588",
+    "balance": 10027,
+    "createdAt": "2024-12-20T11:32:17.555Z",
+    "status": 1,
+    "debt": 0,
+    "transactionHistory": [
+        {
+            "type": "interest",
+            "amount": "26.54208",
+            "date": "2025-01-18T16:18:24.129Z"
+        }
+    ],
+    "settings": {
+        "notifications": true,
+        "dailyLimit": 1000000,
+        "public": true
+    },
+    "banInfo": {
+        "isBanned": false,
+        "expiredAt": null,
+        "reason": ""
+    },
+    "savings": {
+        "totalSavings": 0,
+        "interestPeriod": {
+            "timeS": 1737217104129
+        }
+    },
+    "logins": []
+}

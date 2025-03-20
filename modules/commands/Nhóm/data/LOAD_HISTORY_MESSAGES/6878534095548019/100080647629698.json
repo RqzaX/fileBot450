@@ -1,0 +1,59 @@
+{
+  "messages": [
+    {
+      "body": "import time\nimport random\nimport requests\nfrom zlapi.models import Message, ThreadType\nfrom datetime import datetime, timedelta\nimport pytz\nimport ffmpeg\nimport json\n\ntime_messages = {\n    \"06:00\": \"Chào buổi sáng! Hãy bắt đầu một ngày mới tràn đầy năng lượng.\",\n    \"07:00\": \"Đã đến giờ uống cà phê! Thưởng thức một tách cà phê nhé.\",\n    \"08:30\": \"Đi học thôi nào :3\",\n    \"10:00\": \"Chúc bạn một buổi sáng hiệu quả! Đừng quên nghỉ ngơi.\",\n    \"11:00\": \"Chỉ còn một giờ nữa là đến giờ nghỉ trưa. Hãy chuẩn bị nhé!\",\n    \"12:00\": \"Giờ nghỉ trưa! Thời gian để nạp năng lượng.\",\n    \"13:00\": \"Chúc bạn buổi chiều làm việc hiệu quả.\",\n    \"13:15\": \"Chúc bạn đi làm việc vui vẻ\",\n    \"14:00\": \"Đến giờ làm việc rồi\",\n    \"15:00\": \"Một buổi chiều vui vẻ! Đừng quên đứng dậy và vận động.\",\n    \"17:00\": \"Kết thúc một ngày làm việc! Hãy thư giãn.\",\n    \"18:00\": \"Chào buổi tối! Thời gian để thư giãn sau một ngày dài.\",\n    \"19:00\": \"Thời gian cho bữa tối! Hãy thưởng thức bữa ăn ngon miệng.\",\n    \"21:00\": \"Một buổi tối tuyệt vời! Hãy tận hưởng thời gian bên gia đình.\",\n    \"22:00\": \"Sắp đến giờ đi ngủ! Hãy chuẩn bị cho một giấc ngủ ngon.\",\n    \"23:00\": \"Cất điện thoại đi ngủ thôi nào thức đêm không tốt đâu!\",\n    \"00:00\": \"BOT MITAIZL(Nguyễn Đức Tài) chúc các cạu ngủ ngon nhó\"\n}\n\nvn_tz = pytz.timezone('Asia/Ho_Chi_Minh')\n\ndef get_video_info(video_url):\n    try:\n        probe = ffmpeg.probe(video_url)\n        video_stream = next((stream for stream in probe['streams'] if stream['codec_type'] == 'video'), None)\n        \n        if video_stream:\n            duration = float(video_stream['duration']) * 1000\n            width = int(video_stream['width'])\n            height = int(video_stream['height'])\n            return duration, width, height\n        else:\n            raise Exception(\"Không tìm thấy luồng video trong URL\")\n    except Exception as e:\n        raise Exception(f\"Lỗi khi lấy thông tin video: {str(e)}\")\n\ndef start_auto(client):\n    try:\n        with open(\"modules/cache/data/vdgai.json\", \"r\") as video_file:\n            video_urls = json.load(video_file)\n        \n        with open(\"modules/cache/data/anhgai.json\", \"r\") as image_file:\n            image_urls = json.load(image_file)\n        \n        all_group = client.fetchAllGroups()\n        allowed_thread_ids = [gid for gid in all_group.gridVerMap.keys() if gid != '9034032228046851908']\n\n        last_sent_time = None\n\n        while True:\n            video_url = random.choice(video_urls)\n            image_url = random.choice(image_urls)\n\n            duration, width, height = get_video_info(video_url)\n\n            now = datetime.now(vn_tz)\n            current_time_str = now.strftime(\"%H:%M\")\n            \n            if current_time_str in time_messages and (last_sent_time is None or now - last_sent_time >= timedelta(minutes=1)):\n                message = time_messages[current_time_str]\n                for thread_id in allowed_thread_ids:\n                    gui = Message(text=f\"[ MITAI PROJECT AUTOSEND {current_time_str} ]\\n> {message}\")\n                    try:\n                        client.sendRemoteVideo(\n                            video_url, \n                            image_url,\n                            duration=duration,\n                            message=gui,\n                            thread_id=thread_id,\n                            thread_type=ThreadType.GROUP,\n                            width=width,\n                            height=height\n                        )\n                        time.sleep(0.3)\n                    except Exception as e:\n                        print(f\"Error sending message to {thread_id}: {e}\")\n                last_sent_time = now\n            \n            time.sleep(30)\n\n    except Exception as e:\n        print(f\"Error in start_auto: {e}\")",
+      "timestamp": "1735052687052",
+      "attachments": []
+    },
+    {
+      "body": "",
+      "timestamp": "1736421494920",
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/472350209_1671339050155097_2628213752672939414_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=oXfniEa5EN0Q7kNvgEDTeuT&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gG6-lYKocoIcmhCCBdypdRraVUHvyzMb52c-ijjlflCJw&oe=67A7304F",
+          "type": "photo"
+        }
+      ]
+    },
+    {
+      "body": "Có vk cx ko tha",
+      "timestamp": "1736421500268",
+      "attachments": []
+    },
+    {
+      "body": "Ncc t",
+      "timestamp": 1736765727502,
+      "attachments": []
+    },
+    {
+      "body": "Lô con c",
+      "timestamp": 1736765808666,
+      "attachments": []
+    },
+    {
+      "body": "Fuck",
+      "timestamp": "1736765832338",
+      "attachments": []
+    },
+    {
+      "body": "Deo cho",
+      "timestamp": 1736767913548,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "timestamp": "1739017886113",
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/473001326_645304851495550_2944657542833755857_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=7-b-5hl7DO4Q7kNvgFPLf9u&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gErqcEOJ5fw_23iREJbTlK52dkdRp4RN1jnY1D82Y4AyA&oe=67CEB544",
+          "type": "photo"
+        }
+      ]
+    },
+    {
+      "body": "Phát hiện kiều anh giả gái",
+      "timestamp": "1739630561269",
+      "attachments": []
+    }
+  ]
+}

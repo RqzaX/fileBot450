@@ -1,0 +1,304 @@
+[
+  {
+    "name": "Fukamaru",
+    "type": [
+      "Rồng Đất"
+    ],
+    "evolutions": [
+      {
+        "name": "Gabite",
+        "stats": {
+          "HP": 600,
+          "ATK": 50,
+          "SPEED": 104
+        }
+      },
+      {
+        "name": "Gaburias",
+        "stats": {
+          "HP": 850,
+          "ATK": 65,
+          "SPEED": 110
+        }
+      },
+      {
+        "name": "Gaburias Mega",
+        "stats": {
+          "HP": 950,
+          "ATK": 76,
+          "SPEED": 120
+        }
+      }
+    ],
+    "skills": [
+      "Dragon Claw",
+      "Land's Wrath",
+      "Outrage"
+    ],
+    "stats": {
+      "HP": 300,
+      "ATK": 15,
+      "SPEED": 49
+    }
+  },
+  {
+    "name": "Yukikaburi",
+    "type": [
+      "Cỏ Băng"
+    ],
+    "evolutions": [
+      {
+        "name": "Yukinooh",
+        "stats": {
+          "HP": 750,
+          "ATK": 45,
+          "SPEED": 100
+        }
+      },
+      {
+        "name": "Yukinooh Mega",
+        "stats": {
+          "HP": 1050,
+          "ATK": 80,
+          "SPEED": 130
+        }
+      }
+    ],
+    "skills": [
+      "Ice Punch",
+      "Ice Ball",
+      "Bullet Seed"
+    ],
+    "stats": {
+      "HP": 258,
+      "ATK": 15,
+      "SPEED": 50
+    }
+  },
+  {
+    "name": "Ralts",
+    "type": [
+      "Siêu Linh Giác Đấu"
+    ],
+    "evolutions": [
+      {
+        "name": "Kirlia",
+        "stats": {
+          "HP": 500,
+          "ATK": 53,
+          "SPEED": 120
+        }
+      },
+      {
+        "name": "Erureido",
+        "stats": {
+          "HP": 910,
+          "ATK": 70,
+          "SPEED": 130
+        }
+      },
+      {
+        "name": "Erureido Mega",
+        "stats": {
+          "HP": 1000,
+          "ATK": 85,
+          "SPEED": 135
+        }
+      },
+      {
+        "name": "Sirnight",
+        "stats": {
+          "HP": 910,
+          "ATK": 65,
+          "SPEED": 140
+        }
+      },
+      {
+        "name": "Sirnight Mega",
+        "stats": {
+          "HP": 1000,
+          "ATK": 75,
+          "SPEED": 145
+        }
+      }
+    ],
+    "skills": [
+      "Circle Throw",
+      "Cross Chop",
+      "Psycho Cut"
+    ],
+    "stats": {
+      "HP": 270,
+      "ATK": 20,
+      "SPEED": 53
+    }
+  },
+  {
+    "name": "Arceus",
+    "type": [
+      "Thường"
+    ],
+    "skills": [
+      "Globe Throw",
+      "Cosmic Energy",
+      "Punish",
+      "Earth Power",
+      "Beam Blast"
+    ],
+    "stats": {
+      "HP": 1800,
+      "ATK": 100,
+      "SPEED": 300
+    }
+  },
+  {
+    "name": "Hikozaru",
+    "type": [
+      "Lửa"
+    ],
+    "evolutions": [
+      {
+        "name": "Moukazaru",
+        "stats": {
+          "HP": 500,
+          "ATK": 54,
+          "SPEED": 105
+        }
+      },
+      {
+        "name": "Goukazaru",
+        "stats": {
+          "HP": 950,
+          "ATK": 70,
+          "SPEED": 127
+        }
+      }
+    ],
+    "skills": [
+      "Fiery Dance",
+      "Fire Spin",
+      "Searing Shot"
+    ],
+    "stats": {
+      "HP": 200,
+      "ATK": 20,
+      "SPEED": 50
+    }
+  },
+  {
+    "name": "Pochama",
+    "type": [
+      "Nước"
+    ],
+    "evolutions": [
+      {
+        "name": "Pottaishi",
+        "stats": {
+          "HP": 515,
+          "ATK": 47,
+          "SPEED": 110
+        }
+      },
+      {
+        "name": "Emperte",
+        "stats": {
+          "HP": 920,
+          "ATK": 62,
+          "SPEED": 129
+        }
+      }
+    ],
+    "skills": [
+      "Aqua Jet",
+      "Bubble Beam",
+      "Hydro Cannon"
+    ],
+    "stats": {
+      "HP": 225,
+      "ATK": 16,
+      "SPEED": 51
+    }
+  },
+  {
+    "name": "Kolink",
+    "type": [
+      "Điện"
+    ],
+    "evolutions": [
+      {
+        "name": "Luxio",
+        "stats": {
+          "HP": 560,
+          "ATK": 50,
+          "SPEED": 115
+        }
+      },
+      {
+        "name": "Rentorar",
+        "stats": {
+          "HP": 950,
+          "ATK": 65,
+          "SPEED": 130
+        }
+      }
+    ],
+    "skills": [
+      "Rising Voltage",
+      "Shock Wave",
+      "Thunder Shock"
+    ],
+    "stats": {
+      "HP": 250,
+      "ATK": 18,
+      "SPEED": 53
+    }
+  },
+  {
+    "name": "Yuxie",
+    "type": [
+      "Siêu Linh"
+    ],
+    "skills": [
+      "Psybeam",
+      "Psycho Boost",
+      "Psywave"
+    ],
+    "stats": {
+      "HP": 980,
+      "ATK": 60,
+      "SPEED": 130
+    }
+  },
+  {
+    "name": "Emrit",
+    "type": [
+      "Siêu Linh"
+    ],
+    "skills": [
+      "Psychic",
+      "Psyshock",
+      "Cosmic Power"
+    ],
+    "stats": {
+      "HP": 940,
+      "ATK": 69,
+      "SPEED": 131
+    }
+  },
+  {
+    "name": "Agnome",
+    "type": [
+      "Siêu Linh"
+    ],
+    "skills": [
+      "Imprison",
+      "Lunar Dance",
+      "Magic Room"
+    ],
+    "stats": {
+      "HP": 930,
+      "ATK": 59,
+      "SPEED": 135
+    }
+  }
+]

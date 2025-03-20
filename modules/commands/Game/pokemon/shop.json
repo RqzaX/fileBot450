@@ -1,0 +1,140 @@
+{
+    "pokeBalls": [
+        {
+            "name": "Poke Ball",
+            "description": "Bóng tiêu chuẩn dùng để bắt Pokemon.",
+            "catchRate": 25,
+            "price": 200
+        },
+        {
+            "name": "Great Ball",
+            "description": "Bóng nâng cấp, tỉ lệ bắt cao hơn.",
+            "catchRate": 50,
+            "price": 600
+        },
+        {
+            "name": "Ultra Ball",
+            "description": "Bóng cao cấp với tỉ lệ bắt vượt trội.",
+            "catchRate": 70,
+            "price": 1200
+        }
+    ],
+    "evolutionStages": [
+        {
+            "stage": 1,
+            "symbol": "I",
+            "description": "Tiến hóa từ giai đoạn I → II.",
+            "price": 1500
+        },
+        {
+            "stage": 2,
+            "symbol": "II",
+            "description": "Tiến hóa từ giai đoạn II → III.",
+            "price": 4000
+        },
+        {
+            "stage": 3,
+            "symbol": "III",
+            "description": "Tiến hóa từ giai đoạn III → IV.",
+            "price": 7000
+        }
+    ],
+    "food": {
+        "grass": [
+            {
+                "name": "Belue Berry",
+                "description": "Loại quả mọng nước, rất tốt cho Pokémon hệ Cỏ.",
+                "affectionBoost": 10,
+                "price": 200,
+                "link": "https://files.catbox.moe/dovd7j.png"
+            },
+            {
+                "name": "Grepa Berry",
+                "description": "Quả mọng giúp tăng cường sự phát triển của Pokémon hệ Cỏ.",
+                "affectionBoost": 8,
+                "price": 180,
+                "link": "https://files.catbox.moe/nxf34x.png"
+            }
+        ],
+        "fire": [
+            {
+                "name": "Mago Berry",
+                "description": "Quả mọng ngọt, phù hợp với Pokémon hệ Lửa.",
+                "affectionBoost": 12,
+                "price": 220,
+                "link": "https://files.catbox.moe/w1pgpx.png"
+            },
+            {
+                "name": "Watmel Berry",
+                "description": "Loại quả mọng khổng lồ, rất hiệu quả cho Pokémon hệ Lửa.",
+                "affectionBoost": 15,
+                "price": 300,
+                "link": "https://files.catbox.moe/aiblnp.png"
+            }
+        ],
+        "water": [
+            {
+                "name": "Lapapa Berry",
+                "description": "Quả mọng giúp làm dịu và tăng năng lượng cho Pokémon hệ Nước.",
+                "affectionBoost": 10,
+                "price": 200,
+                "link": "https://files.catbox.moe/3rvn82.png"
+            },
+            {
+                "name": "Oran Berry",
+                "description": "Quả mọng phổ biến giúp phục hồi HP cho Pokémon hệ Nước.",
+                "affectionBoost": 8,
+                "price": 150,
+                "link": "https://files.catbox.moe/xdmkkb.png"
+            }
+        ],
+        "electric": [
+            {
+                "name": "Chesto Berry",
+                "description": "Quả mọng làm tăng sức mạnh và sự linh hoạt của Pokémon hệ Điện.",
+                "affectionBoost": 10,
+                "price": 200,
+                "link": "https://files.catbox.moe/w0x397.png"
+            },
+            {
+                "name": "Mago Berry",
+                "description": "Quả mọng ngọt, có hiệu quả cao với Pokémon hệ Điện.",
+                "affectionBoost": 12,
+                "price": 220,
+                "link": "https://files.catbox.moe/w1pgpx.png"
+            }
+        ],
+        "psychic": [
+            {
+                "name": "Belue Berry",
+                "description": "Quả mọng kỳ lạ, hỗ trợ sự tập trung của Pokémon hệ Tâm Linh.",
+                "affectionBoost": 10,
+                "price": 200,
+                "link": "https://files.catbox.moe/dovd7j.png"
+            },
+            {
+                "name": "Chesto Berry",
+                "description": "Quả mọng làm giảm mệt mỏi, phù hợp với Pokémon hệ Tâm Linh.",
+                "affectionBoost": 8,
+                "price": 180,
+                "link": "https://files.catbox.moe/w0x397.png"
+            }
+        ],
+        "common": [
+            {
+                "name": "Watmel Berry",
+                "description": "Quả mọng khổng lồ, mọi Pokémon đều yêu thích.",
+                "affectionBoost": 15,
+                "price": 300,
+                "link": "https://files.catbox.moe/aiblnp.png"
+            },
+            {
+                "name": "Oran Berry",
+                "description": "Quả mọng phổ biến, có thể dùng cho bất kỳ Pokémon nào.",
+                "affectionBoost": 8,
+                "price": 150,
+                "link": "https://files.catbox.moe/xdmkkb.png"
+            }
+        ]
+    }
+}

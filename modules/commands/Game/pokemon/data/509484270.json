@@ -1,0 +1,39 @@
+{
+    "userID": "509484270",
+    "region": "Kalos",
+    "selectedPokemon": null,
+    "coins": 100,
+    "bag": {
+        "ball": [],
+        "stone": [],
+        "food": []
+    },
+    "pokemonList": [
+        {
+            "name": "Keromatsu",
+            "type": [
+                "Nước Bóng Tối"
+            ],
+            "skills": [
+                "Cut",
+                "Water Wave Dart",
+                "Sucker Punch"
+            ],
+            "stats": {
+                "HP": 230,
+                "ATK": 16,
+                "SPEED": 53
+            },
+            "affection": 0
+        }
+    ],
+    "dailyFinds": 20,
+    "battleStats": {
+        "totalBattles": 0,
+        "wins": 0,
+        "losses": 0,
+        "badges": 0
+    },
+    "daily": "2025-01-31T07:45:26.388Z",
+    "history": []
+}

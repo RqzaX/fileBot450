@@ -1,0 +1,131 @@
+{
+  "messages": [
+    {
+      "body": "🥳",
+      "timestamp": "1736170713293",
+      "attachments": []
+    },
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ \"menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: admin",
+      "timestamp": 1736170718461,
+      "attachments": []
+    },
+    {
+      "body": "🕒 20:38:42 | 📅 06/01/2025\n⌛ Thời gian hoạt động: 00:01:27\n🔣 Trạng thái bot: chậm\n🛢️ Tổng RAM: 15.87GB\n🔍 RAM còn lại: 7.09GB\n💾 RAM đã sử dụng: 8.78GB\n📈 Sử dụng RAM RSS: 200.80MB\n📊 Tổng Heap: 134.60MB\n🔋 Heap Đã sử dụng: 90.28MB\n🔍 Bộ nhớ bên ngoài: 3.07MB\n📊 Dung lượng lưu trữ còn lại: 159.63GB\n🗂️ Tổng số gói: 88\n🛜 Ping: 3367ms\n💾 Tổng kích thước tập tin: 386.64 MB\n👤 Yêu cầu bởi: 𝑻𝒅𝒖𝒏𝒈 𓆉",
+      "timestamp": 1736170723296,
+      "attachments": []
+    },
+    {
+      "body": "⚠️ Bạn không đủ quyền hạn để sử dụng lệnh setdata",
+      "timestamp": 1736170725935,
+      "attachments": []
+    },
+    {
+      "body": "Đã cập nhật dữ liệu của 4 box",
+      "timestamp": "1736170748317",
+      "attachments": []
+    },
+    {
+      "body": "TypeError: Cannot read property 'enable' of undefined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Nhóm\\box.js:101:29)\n    at async Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:227:13)",
+      "timestamp": 1736170753773,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command box!",
+      "timestamp": 1736170789376,
+      "attachments": []
+    },
+    {
+      "body": "TypeError: Cannot read property 'enable' of undefined\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Nhóm\\box.js:101:29)\n    at async Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:227:13)",
+      "timestamp": 1736170810536,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command box!",
+      "timestamp": 1736170903012,
+      "attachments": []
+    },
+    {
+      "body": "📋 Thông tin nhóm\n━━━━━━━━━━━━━━━━━━━━━━\nTên box: 𝑪𝒉𝒓𝒐𝒏𝒐 𝑽𝒂𝒏𝒈𝒖𝒂𝒓𝒅\nID Box: 6878534095548019\nPhê duyệt: ❎ Tắt\nEmoji: 🥳\n━━━━━━━━━━━━━━━━━━━━━━\n👥 Thông tin thành viên\n- Tổng số thành viên: 61\n  👨‍🦰 Nam: 46 thành viên\n  👩‍🦰 Nữ: 8 thành viên\n  👩‍❤️‍👨 Bê đê: 7 thành viên\n━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ Quản trị viên (8)\nVăn Tuấn\n• Nguyễn Chí Thành Lộc\n• Đào Thị Kiều Anh\n• Nguyễn Thanh Tuấn\n• 𝑻𝒅𝒖𝒏𝒈 𓆉\n• Cao Chung Đạt\n• Cường Thịnh ☁️\n• Tử Kỳ",
+      "timestamp": 1736170908112,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/462583600_431536019890666_3068248799753030607_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AGu-arwJoUkQ7kNvgEWYrxE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gFwq6Dq3bb2N4DQvAAx2XdF97U5Rv7kpn9cLIvqWsViBQ&oe=67A34480",
+          "type": "photo"
+        }
+      ]
+    },
+    {
+      "body": "✅ Đã tải lại thành công command box!",
+      "timestamp": 1736170918891,
+      "attachments": []
+    },
+    {
+      "body": "📋 Thông tin nhóm\n━━━━━━━━━━━━━━━━━━━━━━\nTên box: 𝑪𝒉𝒓𝒐𝒏𝒐 𝑽𝒂𝒏𝒈𝒖𝒂𝒓𝒅\nID Box: 6878534095548019\nPhê duyệt: ❎ Tắt\nEmoji: 🥳\n━━━━━━━━━━━━━━━━━━━━━━\n👥 Thông tin thành viên\n- Tổng số thành viên: 61\n  👨‍🦰 Nam: 46 thành viên\n  👩‍🦰 Nữ: 8 thành viên\n  👩‍❤️‍👨 Bê đê: 7 thành viên\n━━━━━━━━━━━━━━━━━━━━━━\n🕵️‍♂️ Quản trị viên (8)\nVăn Tuấn\n• Nguyễn Chí Thành Lộc\n• Đào Thị Kiều Anh\n• Nguyễn Thanh Tuấn\n• 𝑻𝒅𝒖𝒏𝒈 𓆉\n• Cao Chung Đạt\n• Cường Thịnh ☁️\n• Tử Kỳ",
+      "timestamp": 1736170922555,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/462583600_431536019890666_3068248799753030607_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AGu-arwJoUkQ7kNvgEWYrxE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1gFwq6Dq3bb2N4DQvAAx2XdF97U5Rv7kpn9cLIvqWsViBQ&oe=67A34480",
+          "type": "photo"
+        }
+      ]
+    },
+    {
+      "body": "1. 🗂️ - Horizon_Database (134 KB)\n2. 🗂️ - includes (5 MB)\n3. 🗂️ - languages (11 KB)\n4. 🗂️ - modules (18 MB)\n5. 🗂️ - node_modules (363 MB)\n6. 🗂️ - utils (40 KB)\n7. 📄 - a.html (1 KB)\n8. 📄 - a.js (531 Bytes)\n9. 📄 - appstate.json (5 KB)\n10. 📄 - config.json (1 KB)\n11. 📄 - FastConfigFca.json (1 KB)\n12. 📄 - index.js (1 KB)\n13. 📄 - niio-limit.js (11 KB)\n14. 📄 - package-lock.json (308 KB)\n15. 📄 - package.json (3 KB)\n16. 📄 - x.js (7 KB)\n17. 📄 - xsmb.js (2 KB)\n18. 📄 - xsmn.js (4 KB)\n\n📊 Tổng dung lượng directory: 387 MB\nReply [open | send | del | view | create | zip | copy | rename] + stt",
+      "timestamp": 1736170956453,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã xóa những file:\n\n7. a.html\n8. a.js\n17. xsmb.js\n18. xsmn.js",
+      "timestamp": 1736170996395,
+      "attachments": []
+    },
+    {
+      "body": "✨ Tương tác của Văn Tuấn:\n💬 Tổng số tin nhắn: 445\n🔮 Chức Vụ: Admin Bot\n📅 Số tin nhắn trong tuần: 445\n📆 Số tin nhắn trong ngày: 433\n⏰ Lần cuối nhắn tin: 20:43:30 || thứ hai\n🧸 Tỉ lệ tương tác: 19%\n🏆 Xếp hạng: 1/61 (tổng)\n🏆 Xếp hạng: 1/61 (tuần)\n🏆 Xếp hạng: 1/61 (ngày)\n🕰️ Ngày vào nhóm: 07:41:17 || 2024-11-10\n🗓️ Đã tham gia được: 57 ngày",
+      "timestamp": "1736171011128",
+      "attachments": []
+    },
+    {
+      "body": "⚠️ Lệnh không hợp lệ! Hãy sử dụng một trong các lệnh sau:\n\n🔹 \"add\" -  Thêm admin\n🔹 \"remove\" - Xóa admin\n🔹 \"sp\" - Thêm vào NDH\n🔹 \"rsp\" - Gỡ khỏi NDH\n🔹 \"list\" - Xem danh sách\n🔹 \"only\" - Bật/Tắt chế độ MAINTENANCE\n🔹 \"refresh\" - Tải lại cấu hình",
+      "timestamp": 1736171027451,
+      "attachments": []
+    },
+    {
+      "body": "1. 🗂️ - Horizon_Database (134 KB)\n2. 🗂️ - includes (5 MB)\n3. 🗂️ - languages (11 KB)\n4. 🗂️ - modules (18 MB)\n5. 🗂️ - node_modules (363 MB)\n6. 🗂️ - utils (40 KB)\n7. 📄 - appstate.json (5 KB)\n8. 📄 - config.json (1 KB)\n9. 📄 - FastConfigFca.json (1 KB)\n10. 📄 - index.js (1 KB)\n11. 📄 - niio-limit.js (11 KB)\n12. 📄 - package-lock.json (308 KB)\n13. 📄 - package.json (3 KB)\n14. 📄 - x.js (7 KB)\n\n📊 Tổng dung lượng directory: 387 MB\nReply [open | send | del | view | create | zip | copy | rename] + stt",
+      "timestamp": 1736171031096,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Hãy đoán một số có 4 chữ số\nReply vào tin nhắn này \"gợi ý\" hoặc đáp án của bạn để xem gợi ý hoặc trả lời!",
+      "timestamp": "1736171042532",
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã đoán đúng số: 9916\nBạn nhận được 1,000,000 VND",
+      "timestamp": 1736171049116,
+      "attachments": []
+    },
+    {
+      "body": "Hãy đoán một số có 4 chữ số\nReply vào tin nhắn này \"gợi ý\" hoặc đáp án của bạn để xem gợi ý hoặc trả lời!",
+      "timestamp": "1736171059721",
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã đoán đúng số: 6470\nBạn nhận được 1,000,000 VND",
+      "timestamp": 1736171066609,
+      "attachments": []
+    }
+  ]
+}

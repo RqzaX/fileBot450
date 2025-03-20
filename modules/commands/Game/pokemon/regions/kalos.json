@@ -1,0 +1,182 @@
+[
+    {
+      "name": "Keromatsu",
+      "type": ["Nước Bóng Tối"],
+      "evolutions": [
+        {
+          "name": "Gekogashira",
+          "stats": { "HP": 610, "ATK": 50, "SPEED": 120 }
+        },
+        {
+          "name": "Gekkouga",
+          "stats": { "HP": 930, "ATK": 67, "SPEED": 140 }
+        },
+        {
+          "name": "Mega Gekkouga",
+          "stats": { "HP": 999, "ATK": 85, "SPEED": 140 }
+        }
+      ],
+      "skills": ["Cut", "Water Wave Dart", "Sucker Punch"],
+      "stats": { "HP": 230, "ATK": 16, "SPEED": 53 }
+    },
+    {
+      "name": "Fokko",
+      "type": ["Lửa Siêu Linh"],
+      "evolutions": [
+        {
+          "name": "Teruna",
+          "stats": { "HP": 580, "ATK": 52, "SPEED": 100 }
+        },
+        {
+          "name": "Mahoxy",
+          "stats": { "HP": 900, "ATK": 70, "SPEED": 130 }
+        }
+      ],
+      "skills": ["Mystical Fire", "Sacred Fire", "Psycho Cut"],
+      "stats": { "HP": 210, "ATK": 18, "SPEED": 50 }
+    },
+    {
+      "name": "Yayakoma",
+      "type": ["Lửa Bay"],
+      "evolutions": [
+        {
+          "name": "Hinoyakoma",
+          "stats": { "HP": 510, "ATK": 47, "SPEED": 110 }
+        },
+        {
+          "name": "Phaiaro",
+          "stats": { "HP": 920, "ATK": 65, "SPEED": 135 }
+        }
+      ],
+      "skills": ["Flame Charge", "Flare Blitz", "Sky Attack"],
+      "stats": { "HP": 200, "ATK": 17, "SPEED": 52 }
+    },
+    {
+      "name": "Eevee",
+      "type": ["Thường"],
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "stats": { "HP": 950, "ATK": 65, "SPEED": 130 }
+        },
+        {
+          "name": "Jolteon",
+          "stats": { "HP": 920, "ATK": 64, "SPEED": 140 }
+        },
+        {
+          "name": "Flareon",
+          "stats": { "HP": 920, "ATK": 67, "SPEED": 130 }
+        },
+        {
+          "name": "Sylveon",
+          "stats": { "HP": 950, "ATK": 65, "SPEED": 127 }
+        },
+        {
+          "name": "Leafeon",
+          "stats": { "HP": 970, "ATK": 62, "SPEED": 126 }
+        },
+        {
+          "name": "Glaceon",
+          "stats": { "HP": 950, "ATK": 64, "SPEED": 130 }
+        },
+        {
+          "name": "Espeon",
+          "stats": { "HP": 940, "ATK": 64, "SPEED": 235 }
+        },
+        {
+          "name": "Umbreon",
+          "stats": { "HP": 950, "ATK": 68, "SPEED": 153 }
+        }
+      ],
+      "skills": [
+        "Water Pulse", "Muddy Water", "Hydro Pump", 
+        "Fusion Bolt", "Spark", "Thunder Fang", 
+        "Sunny Day", "Fire Fang", "Flame Wheel", 
+        "Sweet Kiss", "Moonlight", "Charm", 
+        "Leech Seed", "Razor Leaf", "Solar Beam", 
+        "Ice Beam", "Blizzard", "Powder Snow", 
+        "Storm Throw", "Zen Headbutt", "Confusion", 
+        "Pursuit", "Thief", "Feint Attack"
+      ],
+      "stats": { "HP": 250, "ATK": 17, "SPEED": 50 }
+    },
+    {
+      "name": "Chespin",
+      "type": ["Cỏ"],
+      "evolutions": [
+        {
+          "name": "Quilladin",
+          "stats": { "HP": 640, "ATK": 45, "SPEED": 110 }
+        },
+        {
+          "name": "Chesnaught",
+          "stats": { "HP": 970, "ATK": 61, "SPEED": 126 }
+        }
+      ],
+      "skills": ["Bullet Seed", "Drum Beating", "Leaf Blade"],
+      "stats": { "HP": 270, "ATK": 15, "SPEED": 50 }
+    },
+    {
+      "name": "Yanchamu",
+      "type": ["Cỏ Giác Đấu"],
+      "evolutions": [
+        {
+          "name": "Goronda",
+          "stats": { "HP": 960, "ATK": 67, "SPEED": 127 }
+        }
+      ],
+      "skills": ["Low Kick", "Razor Leaf", "Seed Bomb"],
+      "stats": { "HP": 250, "ATK": 16, "SPEED": 51 }
+    },
+    {
+      "name": "Zygarde",
+      "type": ["Rồng Đất"],
+      "evolutions": [
+        {
+          "name": "Zygarde (50%)",
+          "stats": { "HP": 650, "ATK": 55, "SPEED": 120 }
+        },
+        {
+          "name": "Zygarde (100%)",
+          "stats": { "HP": 1000, "ATK": 75, "SPEED": 140 }
+        }
+      ],
+      "skills": ["Dragon Breath", "Dragon Pulse", "Roar of Time"],
+      "stats": { "HP": 265, "ATK": 20, "SPEED": 53 }
+    },
+    {
+      "name": "Horubi",
+      "type": ["Thường Đất"],
+      "evolutions": [
+        {
+          "name": "Horudo",
+          "stats": { "HP": 950, "ATK": 68, "SPEED": 130 }
+        }
+      ],
+      "skills": ["Supersonic", "Perish Song", "Mud Sport"],
+      "stats": { "HP": 236, "ATK": 17, "SPEED": 50 }
+    },
+    {
+      "name": "Numera",
+      "type": ["Đất"],
+      "evolutions": [
+        {
+          "name": "Numeiru",
+          "stats": { "HP": 650, "ATK": 46, "SPEED": 110 }
+        },
+        {
+          "name": "Numerugon",
+          "stats": { "HP": 960, "ATK": 65, "SPEED": 125 }
+        }
+      ],
+      "skills": ["Dragon Dance", "Twister", "Spacial Rend"],
+      "stats": { "HP": 300, "ATK": 15, "SPEED": 49 }
+    },
+    {
+      "name": "Hoopa",
+      "type": ["Siêu Linh"],
+      "skills": ["Lunar Dance", "Secret Sword", "Psybeam", "Night Daze"],
+      "stats": { "HP": 1500, "ATK": 95, "SPEED": 187 }
+    }
+  ]
+  

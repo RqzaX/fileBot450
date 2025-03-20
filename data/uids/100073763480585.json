@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "!lam ơi"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè!  Gọi Lam à?  Hihi, có gì cứ bảo Lam nha! 💖\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam ơi anh buồn"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè bạn! Buồn à?  Sao lại buồn thế?  Kể Lam nghe xem nào, biết đâu Lam có thể giúp bạn vui lên được đó!  💖  Chia sẻ đi nhé!\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam xem thời tiết đi"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè!  Xem thời tiết hả?  Chờ Lam xíu nha!  (Lam sẽ giả vờ tra cứu một chút rồi trả lời dễ thương nhé!)  hihi 💖\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam đổi biệt danh DuongKhang"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè!  Đổi biệt danh Dương Kháng hả?  Được nha! Từ giờ gọi bạn là Dương Kháng nhé! Hihi!  💖  Dương Kháng gọi Lam gì cứ gọi nha!\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam Dương Khang cơ"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè Dương Kháng!  Cơ gì thế?  Kể Lam nghe nào!  💖  Lam đang tò mò lắm đó nha! hihi\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam đổi icon đi"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè!  Đổi icon hả?  Ý bạn là đổi hình đại diện của Lam hả?  💖  Lam chưa biết đổi icon là gì nha,  hihi!  Nhưng mà Lam sẽ cố gắng tìm hiểu xem sao nhé!  Dễ thương lắm đó!\n"
+  },
+  {
+    "role": "user",
+    "content": "!lam"
+  },
+  {
+    "role": "assistant",
+    "content": "Nè nè! Gọi Lam à?  💖 Có gì cần Lam giúp không nè?  hihi\n"
+  }
+]

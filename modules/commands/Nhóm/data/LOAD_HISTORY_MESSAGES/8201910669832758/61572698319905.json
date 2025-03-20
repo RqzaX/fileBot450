@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ /menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: acp",
+      "timestamp": 1739028827036,
+      "attachments": []
+    },
+    {
+      "body": "TypeError: Cannot read property 'altp' of null\n    at Object.module.exports.run (C:\\Users\\Administrator\\Desktop\\450-limit-update3\\modules\\commands\\Game\\altp.js:732:29)\n    at async Object.handleCommand (C:\\Users\\Administrator\\Desktop\\450-limit-update3\\includes\\handle\\handleCommand.js:227:13)",
+      "timestamp": 1739028905257,
+      "attachments": []
+    },
+    {
+      "body": "1. 𝐒𝐢𝐥𝐯𝐞𝐫 𝐛𝐮𝐥𝐥𝐞𝐭 ♨️- [26.01.24]\n6728969937206704\n\n📌 Reply (phản hồi) theo stt để duyệt",
+      "timestamp": 1739028968345,
+      "attachments": []
+    },
+    {
+      "body": "",
+      "attachments": []
+    },
+    {
+      "body": "Done",
+      "timestamp": 1739028975191,
+      "attachments": []
+    }
+  ]
+}

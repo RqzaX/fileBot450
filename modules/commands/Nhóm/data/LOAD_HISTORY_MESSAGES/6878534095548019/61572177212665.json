@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "body": "Lệnh gợi ý \"4k\"\nupt: 0:0:31",
+      "timestamp": 1737825230735,
+      "attachments": []
+    },
+    {
+      "body": "Time: 00:13:53 || 26/01/2025\nTime onl: 00:00:35\nPrefix: loc\nStatus: Mượt\nOS: win32\nCPU: 2 core(s)\nRAM: 2.17GB/4.00GB (đã dùng)\nRAM Used: 47.27MB\nStorage: 16.31GB/79.46GB (Used)\nPing: 188ms\nUsed by: Thanh Loc",
+      "timestamp": 1737825234269,
+      "attachments": []
+    },
+    {
+      "body": "Lệnh gợi ý \"4k\"\nupt: 0:0:38",
+      "timestamp": 1737825237648,
+      "attachments": []
+    }
+  ]
+}

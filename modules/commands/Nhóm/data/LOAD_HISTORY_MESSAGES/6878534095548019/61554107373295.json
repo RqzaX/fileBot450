@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "body": "|› Prefix của nhóm: /\n|› Prefix hệ thống: /",
+      "timestamp": 1736766688380,
+      "attachments": []
+    },
+    {
+      "body": "⏰ Bây giờ là: 20:08:00 | 13/01/2025\n⏱️ Thời gian đã hoạt động: 01:24:41\n📝 Dấu lệnh mặc định: /\n🔣 Tình trạng bot: mượt\n📋 Hệ điều hành: Linux 6.0.0-rt17-generic (x64)\n💾 CPU: 16 core(s) - AMD Ryzen 9 7950X3D @ 4500MHz\n📊 RAM: 0.61GB/64GB (đã dùng)\n🛢️ RAM trống: 63.39GB\n🛜 Ping: 78ms\n👤 Yêu cầu bởi: Phạm Hữu Tài",
+      "timestamp": 1736773686271,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/462468941_27556479893943149_2315892908945058846_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=yo5BepWLX5gQ7kNvgEKdqHJ&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=AqKFUwui8rW3YhlgorLFYTk&oh=03_Q7cD1gGtfO4R9ZMeFPf_ys-ySRuHEYO51vxpsQfMKtIoJUyyzg&oe=6786EC6B&dl=1",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "body": "Video: gái",
+      "timestamp": 1736773711625,
+      "attachments": [
+        {
+          "url": "https://scontent.xx.fbcdn.net/v/t42.3356-2/472988436_8884607891661842_554931189687082414_n.mp4?_nc_cat=104&ccb=1-7&_nc_sid=4f86bc&_nc_ohc=3qAsDPHtoUIQ7kNvgEuuEVb&_nc_zt=28&_nc_ht=scontent.xx&_nc_gid=Ak0ighMjSu-2J-Xjn-4KQS7&oh=03_Q7cD1gG7a9U0iU0HJiYj97XlFhBt00ioFCE4Qt0o4pCS4-MpAQ&oe=6786F565&dl=1",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}

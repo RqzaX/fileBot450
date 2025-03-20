@@ -1,0 +1,289 @@
+{
+  "messages": [
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ \"menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: acp",
+      "timestamp": 1737860946263,
+      "attachments": []
+    },
+    {
+      "body": "TypeError: x.getStarterPokemon is not a function\n    at Object.module.exports.run (C:\\vtishan\\niio-limit-update3\\modules\\commands\\Game\\pokemon.js:90:27)\n    at Object.handleCommand (C:\\vtishan\\niio-limit-update3\\includes\\handle\\handleCommand.js:227:28)",
+      "timestamp": 1737860954758,
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command pokemon!",
+      "timestamp": 1737860980621,
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn một vùng hợp lệ: Kanto, Isshu, Kalos, Alola.",
+      "timestamp": "1737861158140",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn: Kanto, Alola, Kalos, Isshu.",
+      "timestamp": "1737861280849",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn: Kanto, Alola, Kalos, Isshu.",
+      "timestamp": "1737861433225",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn: Kanto, Alola, Kalos, Isshu.",
+      "timestamp": "1737861542742",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn: Kanto, Alola, Kalos, Isshu.",
+      "timestamp": "1737861602797",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn: Kanto, Alola, Kalos, Isshu.",
+      "timestamp": "1737861696211",
+      "attachments": []
+    },
+    {
+      "body": "Hãy đoán một số có 4 chữ số\nReply vào tin nhắn này \"gợi ý\" hoặc đáp án của bạn để xem gợi ý hoặc trả lời!",
+      "timestamp": "1737861814598",
+      "attachments": []
+    },
+    {
+      "body": "Hãy đoán một số có 4 chữ số\nReply vào tin nhắn này \"gợi ý\" hoặc đáp án của bạn để xem gợi ý hoặc trả lời!",
+      "timestamp": "1737861876576",
+      "attachments": []
+    },
+    {
+      "body": "Hãy đoán một số có 4 chữ số\nReply vào tin nhắn này \"gợi ý\" hoặc đáp án của bạn để xem gợi ý hoặc trả lời!",
+      "timestamp": "1737861951174",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\nKanto, Unova, Kalos, Alola",
+      "timestamp": "1737872392543",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737872899229",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873074892",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn 1 trong các vùng sau:\nKanto, Unova, Kalos, Alola",
+      "timestamp": "1737873078852",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn 1 trong các vùng sau:\nKanto, Unova, Kalos, Alola",
+      "timestamp": "1737873117687",
+      "attachments": []
+    },
+    {
+      "body": "Vùng không hợp lệ! Vui lòng chọn 1 trong các vùng sau:\nKanto, Unova, Kalos, Alola",
+      "timestamp": "1737873124090",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873228184",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873231878",
+      "attachments": []
+    },
+    {
+      "body": "Pokemon không hợp lệ! Vui lòng chọn 1 trong các Pokemon sau:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873241585",
+      "attachments": []
+    },
+    {
+      "body": "❎ Lệnh bạn sử dụng không tồn tại gõ \"menu để xem các lệnh hiện có\n✏️ Lệnh gần giống là: acp",
+      "timestamp": 1737873394008,
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873396803",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873399984",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Fushigidane! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737873403797",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873728046",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873731176",
+      "attachments": []
+    },
+    {
+      "body": "Bạn chưa đăng ký! Vui lòng sử dụng lệnh 'poke -c' để đăng ký.",
+      "timestamp": "1737873780968",
+      "attachments": []
+    },
+    {
+      "body": "Đăng ký thành công! Vui lòng sử dụng lệnh 'poke -s <region>' để bắt đầu hành trình.",
+      "timestamp": "1737873788001",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873793160",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873797298",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng rồi! Không thể thay đổi vùng nữa.",
+      "timestamp": "1737873908276",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873928702",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737873932778",
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command pokemon!",
+      "timestamp": 1737873985181,
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng rồi! Không thể thay đổi vùng nữa.",
+      "timestamp": "1737873987782",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737873995626",
+      "attachments": []
+    },
+    {
+      "body": "✅ Đã tải lại thành công command pokemon!",
+      "timestamp": 1737874027408,
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737874031052",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737874034582",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Hitokage! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737874037169",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737874370612",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737874375007",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Hitokage! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737874377604",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737874475155",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737874479093",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Hitokage! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737874481923",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng rồi! Không thể thay đổi vùng nữa.",
+      "timestamp": "1737874512666",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737874522287",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737874528157",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Hitokage! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737874531826",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737874722597",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737874727840",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Hitokage! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737874730554",
+      "attachments": []
+    },
+    {
+      "body": "Vui lòng chọn vùng mà bạn muốn bắt đầu hành trình:\n1. Kanto\n2. Unova\n3. Kalos\n4. Alola",
+      "timestamp": "1737875131152",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn vùng Kanto. Vui lòng reply tên Pokemon khởi đầu mà bạn muốn chọn:\nFushigidane, Hitokage, Zenigame",
+      "timestamp": "1737875134163",
+      "attachments": []
+    },
+    {
+      "body": "Bạn đã chọn thành công Fushigidane! Chúc bạn có một cuộc phiêu lưu đầy thú vị!",
+      "timestamp": "1737875136686",
+      "attachments": []
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+const fs = require('fs-extra');
+const path = require('path');
+module.exports.config = {
+    name: "anti",
+    version: "4.0.0",
+    hasPermssion: 1,
+    Rent: 2,
+    credits: "Niio-team (Vtuan)",
+    description: "Quản Lí Box",
+    commandCategory: "Nhóm",
+    usages: "No",
+    cooldowns: 0
+};
+const antiDir = "./modules/data/anti";
+const bd = "./modules/data/anti/antiBietDanh";
+const fileAnti = path.join(antiDir, "antiFile.json");
+if (!fs.existsSync(antiDir)) fs.mkdirSync(antiDir, { recursive: true });
+if (!fs.existsSync(bd)) fs.mkdirSync(bd, { recursive: true });
+if (!fs.existsSync(fileAnti)) fs.writeFileSync(fileAnti, JSON.stringify({}));
+let DataAnti;
+module.exports.run = async ({ api, event, args, Threads }) => {
+    DataAnti = JSON.parse(fs.readFileSync(fileAnti, 'utf-8'));
+    const { threadID, senderID } = event;
+    if (!DataAnti[threadID]) DataAnti[threadID] = {};
+    const action = args[0]
+    if (['join', 'qtv', 'out', 'spam', 'namebox', 'avtbox', 'emoji', 'theme', 'resend'].includes(action)) {
+        if (['join', 'qtv', 'spam'].includes(action)) {
+            const threadInfo = (await Threads.getData(event.threadID)).threadInfo
+            if (!threadInfo.adminIDs.some(item => item.id == api.getCurrentUserID())) return api.sendMessage('⚠️ Bot cần quyền quản trị viên nhóm', threadID, event.messageID);
+        }
+        antiHiHi(action, threadID, Threads, event, api)
+    } else if (args[0] === "bietdanh") {
+        antibd(action, threadID, Threads, event, api)
+    } else {
+        let prefix = (global.data && global.data.threadData && global.data.threadData.get(threadID) && global.data.threadData.get(threadID).PREFIX) || global.config.PREFIX;
+        const settings = ['namebox', 'avtbox', 'bietdanh', 'out', 'join', 'qtv', 'emoji', 'spam', 'theme', 'resend'];
+        const NNFile = path.resolve(__dirname, 'data/anti/antiBietDanh', `${threadID}.json`);
+        const nicknamesData = await fs.pathExists(NNFile) ? await fs.readJson(NNFile) : {};
+
+        let msg = `[ CONFIG ANTI ]\n\n`;
+        settings.forEach((setting, index) => {
+            const status = (setting === 'bietdanh' ? nicknamesData[setting] : DataAnti[threadID][setting]) ? "bật" : "tắt";
+            msg += `${index + 1}. ${prefix}anti ${setting}: ${status}\n`;
+        });
+        msg += `\nReply tin nhắn này kèm số thứ tự hoặc dùng lệnh anti + tên anti để bật hoặc tắt chế độ`;
+        return api.sendMessage(msg, threadID, (err, info) => {
+            if (err) return console.error(err);
+            global.client.handleReply.push({
+                name: module.exports.config.name,
+                author: senderID,
+                messageID: info.messageID,
+                threadID: event.threadID
+            });
+        });
+    }
+}
+module.exports.handleReply = async ({ api, event, handleReply, Threads }) => {
+    const { threadID, author } = handleReply;
+    if (author !== event.senderID) return;
+
+    const settings = ['namebox', 'avtbox', 'bietdanh', 'out', 'join', 'qtv', 'emoji', 'spam', 'theme', 'resend'];
+    const actions = event.body.split(' ').map(num => parseInt(num)).filter(num => num >= 1 && num <= settings.length);
+
+    for (const actionIndex of actions) {
+        const action = settings[actionIndex - 1];
+        if (action === "bietdanh") {
+            await antibd(action, threadID, Threads, event, api);
+        } else if (['join', 'qtv', 'out', 'spam', 'namebox', 'avtbox', 'emoji', 'theme', 'resend'].includes(action)) {
+            if (['join', 'qtv', 'spam'].includes(action)) {
+                const threadInfo = (await Threads.getData(event.threadID)).threadInfo
+                if (!threadInfo.adminIDs.some(item => item.id == api.getCurrentUserID())) {
+                    api.sendMessage(`⚠️ ${action}: Bot cần quyền quản trị viên nhóm`, threadID);
+                    continue;
+                }
+            }
+            await antiHiHi(action, threadID, Threads, event, api);
+        }
+    }
+};
+
+async function antibd(action, threadID, Threads, event, api) {
+    const NNFile = path.resolve(antiDir + '/antiBietDanh', `${threadID}.json`);
+    const read = fs.existsSync(NNFile) ? JSON.parse(fs.readFileSync(NNFile, 'utf-8') || '{}') : {};
+    if (read.bietdanh) {
+        fs.unlinkSync(NNFile);
+        return api.sendMessage(`✅ Chế độ anti '${action}' đã được tắt.`, threadID);
+    }
+    read.bietdanh = (await Threads.getData(event.threadID)).threadInfo.nicknames;
+    await fs.writeJson(NNFile, read, { spaces: 2 });
+    return api.sendMessage(`✅ Chế độ anti '${action}' đã được bật.`, threadID);
+}
+async function antiHiHi(action, threadID, Threads, event, api) {
+    let message = ``;
+    if (!(action in DataAnti[threadID])) {
+        const threadData = (await Threads.getData(event.threadID)).threadInfo;
+        let models = action == 'join' ? DataAnti[threadID][`join`] = true : action == 'qtv' ? DataAnti[threadID][`qtv`] = true : action == 'out' ? DataAnti[threadID][`out`] = true : action == 'spam' ? DataAnti[threadID][`spam`] = true : action === 'namebox' ? threadData.threadName : action === 'avtbox' ? threadData.imageSrc : action === 'emoji' ? threadData.emoji : action === 'resend' ? DataAnti[threadID][`resend`] = true : (threadData.threadTheme ? threadData.threadTheme.id : null);
+        if (models === null) message = 'Nhóm chưa có theme';
+        else {
+            DataAnti[threadID][action] = models;
+            message = `✅ Chế độ anti '${action}' đã được bật.`;
+            await fs.writeJson(fileAnti, DataAnti, { spaces: 2 });
+        }
+    } else {
+        delete DataAnti[threadID][action];
+        message = `🔄 Chế độ anti '${action}' đã được tắt.`;
+        await fs.writeJson(fileAnti, DataAnti, { spaces: 2 });
+    }
+    return api.sendMessage(message, threadID);
+}
+
+let usersSpam = {};
+module.exports.handleEvent = async function ({ api, event, Threads, Users }) {
+    const { threadID, senderID } = event;
+    DataAnti = JSON.parse(fs.readFileSync(fileAnti, 'utf-8'));
+    if (DataAnti[threadID] && DataAnti[threadID].spam && DataAnti[threadID].resend) {
+        antiSpam(api, event, Threads, Users);
+        reSend({ event, api, client: Threads, Users });
+    } else if (DataAnti[threadID] && DataAnti[threadID].spam) {
+        antiSpam(api, event, Threads, Users);
+    } else if (DataAnti[threadID] && DataAnti[threadID].resend) {
+        reSend({ event, api, client: Threads, Users });
+    }
+    
+};
+
+async function antiSpam(api, event, Threads, Users) {
+    const { threadID, senderID } = event;
+    const adminIDs = (await Threads.getData(threadID)).threadInfo.adminIDs.map(admin => admin.id);
+    const adminBot = global.config.ADMINBOT || [];
+    if (adminBot.includes(senderID) || adminIDs.includes(senderID)) return;
+    if (!usersSpam[senderID]) {
+        usersSpam[senderID] = {
+            count1: 0,
+            count2: 0,
+            start1: Date.now(),
+            start2: Date.now(),
+            lastMessage: event.body
+        };
+    }
+    const currentTime = Date.now();
+    if (currentTime - usersSpam[senderID].start1 > 8000) {
+        usersSpam[senderID].count1 = 0;
+        usersSpam[senderID].start1 = currentTime;
+    }
+    if (currentTime - usersSpam[senderID].start2 > 2500) {
+        usersSpam[senderID].count2 = 0;
+        usersSpam[senderID].start2 = currentTime;
+    }
+    if (event.body === usersSpam[senderID].lastMessage) {
+        usersSpam[senderID].count1++;
+        if (usersSpam[senderID].count1 > 6 && currentTime - usersSpam[senderID].start1 < 7500) {
+            const userInfo = await Users.getData(senderID);
+            const userName = userInfo.name;
+            api.removeUserFromGroup(senderID, threadID);
+            api.sendMessage({ body: `Đã tự động kick ${userName} do spam` }, threadID);
+            usersSpam[senderID] = {
+                count1: 0,
+                count2: 0,
+                start1: currentTime,
+                start2: currentTime,
+                lastMessage: ""
+            };
+        }
+    } else {
+        usersSpam[senderID].count2++;
+        usersSpam[senderID].start2 = currentTime;
+        usersSpam[senderID].lastMessage = event.body;
+        if (usersSpam[senderID].count2 > 9 && currentTime - usersSpam[senderID].start2 <= 2500) {
+            const userInfo = await Users.getData(senderID);
+            const userName = userInfo.name;
+            api.removeUserFromGroup(senderID, threadID);
+            api.sendMessage({ body: `Đã tự động kick ${userName} do spam` }, threadID);
+            usersSpam[senderID] = {
+                count1: 0,
+                count2: 0,
+                start1: currentTime,
+                start2: currentTime,
+                lastMessage: ""
+            };
+        }
+    }
+}
+
+async function reSend({ event: e, api: a, client: t, Users: s }) {
+    if (e.senderID == (global.botID || a.getCurrentUserID())) return;
+    const n = require('request'), o = require('axios'), { writeFileSync: d, createReadStream: r } = require("fs-extra")
+    let { messageID: g, senderID: l, threadID: u, body: c } = e;
+    global.logMessage || (global.logMessage = new Map), global.data.botID || (global.data.botID = a.getCurrentUserID());
+    const i = global.data.threadData.get(u) || {};
+    if ((void 0 === i.resend || 0 != i.resend) && l != global.data.botID && ("message_unsend" != e.type && global.logMessage.set(g, {
+        msgBody: c,
+        attachment: e.attachments
+    }), "message_unsend" == e.type)) {
+        var m = global.logMessage.get(g);
+        if (!m) return;
+        let e = await s.getNameUser(l);
+        if (null == m.attachment[0]) return a.sendMessage(`${e} vừa gỡ 1 nội dung: ${m.msgBody}`, u); {
+            let t = 0,
+                s = {
+                    body: `${e} vừa gỡ ${m.attachment.length} tệp đính kèm.${"" != m.msgBody ? `\n\nNội dung: ${m.msgBody}` : ""}`,
+                    attachment: [],
+                    mentions: {
+                        tag: e,
+                        id: l
+                    }
+                };
+            for (var f of m.attachment) {
+                t += 1;
+                var h = (await n.get(f.url)).uri.pathname,
+                    b = h.substring(h.lastIndexOf(".") + 1),
+                    p = __dirname + `/cache/${t}.${b}`,
+                    y = (await o.get(f.url, {
+                        responseType: "arraybuffer"
+                    })).data;
+                d(p, Buffer.from(y, "utf-8")), s.attachment.push(r(p))
+            }
+            a.sendMessage(s, u)
+        }
+    }
+}

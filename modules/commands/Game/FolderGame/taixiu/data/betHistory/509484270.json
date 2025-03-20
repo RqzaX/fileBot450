@@ -1,0 +1,44 @@
+[
+    {
+        "senderID": "509484270",
+        "choice": "xỉu",
+        "betAmount": 19900000,
+        "phien": 2,
+        "time": 1737219228686,
+        "ket_qua": "thua"
+    },
+    {
+        "senderID": "509484270",
+        "choice": "xỉu",
+        "betAmount": 98019000,
+        "phien": 3,
+        "time": 1738850177759,
+        "ket_qua": "thua"
+    },
+    {
+        "senderID": "509484270",
+        "choice": "xỉu",
+        "betAmount": 882081000,
+        "phien": 4,
+        "time": 1738850239086,
+        "ket_qua": "thua"
+    },
+    {
+        "senderID": "509484270",
+        "choice": "tài",
+        "betAmount": 994950595959494000000,
+        "phien": 5,
+        "time": 1738850307750,
+        "winAmount": 1.989901191918988e+21,
+        "ket_qua": "thắng"
+    },
+    {
+        "senderID": "509484270",
+        "choice": "xỉu",
+        "betAmount": 19899011919189880000,
+        "phien": 6,
+        "time": 1738850384166,
+        "winAmount": 39798023838379760000,
+        "ket_qua": "thắng"
+    }
+]
